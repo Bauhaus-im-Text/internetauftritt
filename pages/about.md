@@ -1,5 +1,5 @@
 ---
-title: Teilprojekte
+title: 
 nav: Teilprojekte
 nav_order: 1
 ---
