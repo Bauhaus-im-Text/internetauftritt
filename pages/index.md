@@ -1,5 +1,5 @@
 ---
-title: Projekt
+title: Projektbeschreibung
 layout: page
 ---
 
