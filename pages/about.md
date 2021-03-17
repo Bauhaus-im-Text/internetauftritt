@@ -1,5 +1,5 @@
 ---
-title: Bauhaus im Text
+title: Teilprojekte
 nav: Teilprojekte
 nav_order: 1
 ---
