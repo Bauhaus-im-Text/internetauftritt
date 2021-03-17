@@ -4,9 +4,9 @@ nav: Teilprojekte
 nav_order: 1
 ---
 
-# Teilprojekte
+## Teilprojekte
 
-## Verzeichnis: Texte 1919-1933
+### Verzeichnis: Texte 1919-1933
 
 Ein annotiertes Verzeichnis aller Texte, die Bauhausangehörige zu ihrer Zeit am Bauhaus und zum Bauhaus verfasst 
 haben, gibt es bisher nicht. Hans Maria Wingler legte 1962 mit dem Buch *Das Bauhaus. Weimar, Dessau, Berlin 1919–1933* 
@@ -21,7 +21,7 @@ innovativen, textbasierten Zugang zum Bauhaus verdeutlichen und seine Möglichke
 Forschung aufzeigen sollen.
 
 
-## Edition: bauhaus. organ der kostufra. sprachrohr der studierenden (1930-1932)
+### Edition: bauhaus. organ der kostufra. sprachrohr der studierenden (1930-1932)
 
 Anhand der Zeitschrift *bauhaus. sprachrohr der studierenden. organ der kostufra*, der Zeitschrift kommunistischer 
 Studierender, wird das bis heute viel und kontrovers diskutierte politische Leben und Wirken am historischen Bauhaus 
@@ -34,7 +34,7 @@ Eine Tagung zur Zeitschrift *bauhaus. sprachrohr der studierenden. organ der kos
 Ihre Ergebnisse sollen anschließend in einem Tagungsband veröffentlicht werden.
 
 
-## Edition: The New City. Principles of Planning (1944) von Ludwig Hilberseimer
+### Edition: The New City. Principles of Planning (1944) von Ludwig Hilberseimer
 
 Ludwig Hilberseimer (1885-1967) gilt als einer der führenden Theoretiker des Neuen Bauens und insbesondere des modernen, 
 funktionalen Städtebaus. Sein Buch *Großstadtarchitektur* aus dem Jahr 1927 war maßgeblich für diese Sicht auf den Architekten, 
