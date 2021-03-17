@@ -5,19 +5,16 @@ nav_order: 2
 ---
 
 **Dr. Laura Gieser**
-
 - Kunsthistorikerin
 - Annotiertes Verzeichnis Bauhaus im Text (1919-1933)
 - gieser@bauhaus-dessau.de
 
 
+
 **Karoline Lemke**
-
-Editionswissenschaftlerin
-
-Entwicklung und Koordination der Editionen und digitalen Publikationen
-
-lemke@bauhaus-dessau.de
+- Editionswissenschaftlerin
+- Entwicklung und Koordination der Editionen und digitalen Publikationen
+- lemke@bauhaus-dessau.de
 
 
 **Dr. Andreas Schätzke**
