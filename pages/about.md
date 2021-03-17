@@ -1,6 +1,6 @@
 ---
 title: Annotiertes Verzeichnist Bauhaus im Text 1919-1933
-nav: Teilprojekte
+nav: Pilotprojekte
 nav_order: 1
 ---
 
