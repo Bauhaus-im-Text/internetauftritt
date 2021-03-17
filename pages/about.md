@@ -1,9 +1,11 @@
 ---
-title: Annotiertes Textverzeichnis 1919-1933
+title: 
 nav: Teilprojekte
 nav_order: 1
 ---
 
+
+### Annotiertes Textverzeichnis 1919-1933
 Ein annotiertes Verzeichnis aller Texte, die Bauhausangehörige zu ihrer Zeit am Bauhaus und zum Bauhaus verfasst 
 haben, gibt es bisher nicht. Hans Maria Wingler legte 1962 mit dem Buch *Das Bauhaus. Weimar, Dessau, Berlin 1919–1933* 
 zwar eine erste Anthologie vor, die die Rezeption des Bauhauses wesentlich prägte. Sie umfasst jedoch lediglich eine kleine Auswahl 
