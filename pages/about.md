@@ -1,5 +1,5 @@
 ---
-title: Annotiertes Textverzeichnis 1919-1933
+title: Annotiertes Verzeichnist Bauhaus im Text 1919-1933
 nav: Teilprojekte
 nav_order: 1
 ---
