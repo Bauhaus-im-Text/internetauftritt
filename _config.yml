@@ -29,7 +29,7 @@ url: https://KLemke-85.github.io
 # baseurl is your github repository's name prefixed with a /
 baseurl: /internetauftritt
 # location of code, the full url to your github repository
-source-code: 
+source-code: https://bauhaus-im-text.github.io/internetauftritt/
 
 ##########
 # GOOGLE ANALYTICS [optional!]
