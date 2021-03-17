@@ -4,16 +4,14 @@ nav: Team
 nav_order: 2
 ---
 
-Dr. Laura Gieser
+**Dr. Laura Gieser**
 
-Kunsthistorikerin
-
-Annotiertes Verzeichnis Bauhaus im Text (1919-1933)
-
-gieser@bauhaus-dessau.de
+- Kunsthistorikerin
+- Annotiertes Verzeichnis Bauhaus im Text (1919-1933)
+- gieser@bauhaus-dessau.de
 
 
-Karoline Lemke
+**Karoline Lemke**
 
 Editionswissenschaftlerin
 
@@ -22,7 +20,7 @@ Entwicklung und Koordination der Editionen und digitalen Publikationen
 lemke@bauhaus-dessau.de
 
 
-Dr. Andreas Schätzke
+**Dr. Andreas Schätzke**
 
 Architekturhistoriker
 
@@ -31,14 +29,14 @@ Annotiertes Verzeichnis Bauhaus im Text (1919-1933)
 schaetzke@bauhaus-dessau.de
 
 
-Clarissa Seidel
+**Clarissa Seidel**
 
 Projektmanagerin
 
 seidel@bauhaus-dessau.de
 
 
-Dr. Florian Strob
+**Dr. Florian Strob**
 
 Leiter der Pilotprojekte Bauhaus im Text
 
@@ -49,7 +47,7 @@ The New City. Principles of Planning (1944) von Ludwig Hilberseimer
 strob@bauhaus-dessau.de
 
 
-Wolfgang Thöner
+**Wolfgang Thöner**
 
 Leiter der Sammlung der Stiftung Bauhaus Dessau
 
