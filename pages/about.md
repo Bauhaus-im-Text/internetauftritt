@@ -1,5 +1,5 @@
 ---
-title: Annotiertes Verzeichnist Bauhaus im Text 1919-1933
+title: Annotiertes Verzeichnis Bauhaus im Text 1919-1933
 nav: Pilotprojekte
 nav_order: 1
 ---
