@@ -4,6 +4,7 @@ nav: Team
 nav_order: 2
 ---
 
+| 
 Dr. Laura Gieser
 Kunsthistorikerin
 Annotiertes Verzeichnis Bauhaus im Text (1919-1933)
