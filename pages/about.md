@@ -1,10 +1,8 @@
 ---
-title: 
+title: Verzeichnis: Texte 1919-1933
 nav: Teilprojekte
 nav_order: 1
 ---
-
-### Verzeichnis: Texte 1919-1933
 
 Ein annotiertes Verzeichnis aller Texte, die Bauhausangehörige zu ihrer Zeit am Bauhaus und zum Bauhaus verfasst 
 haben, gibt es bisher nicht. Hans Maria Wingler legte 1962 mit dem Buch *Das Bauhaus. Weimar, Dessau, Berlin 1919–1933* 
