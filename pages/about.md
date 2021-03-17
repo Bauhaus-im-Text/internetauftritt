@@ -4,8 +4,6 @@ nav: Teilprojekte
 nav_order: 1
 ---
 
-## Teilprojekte
-
 ### Verzeichnis: Texte 1919-1933
 
 Ein annotiertes Verzeichnis aller Texte, die Bauhausangehörige zu ihrer Zeit am Bauhaus und zum Bauhaus verfasst 
