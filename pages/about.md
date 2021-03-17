@@ -1,3 +1,4 @@
+---
 title: Bauhaus im Text
 nav: Teilprojekte
 nav_order: 1
