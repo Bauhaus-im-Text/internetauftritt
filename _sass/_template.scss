@@ -37,8 +37,7 @@ a {
         @if variable-exists(text-color) {
             &:hover { color: $text-color; }
         }
-    }
-}
+   }
 
 /* narrow container */ 
 @if variable-exists(container-narrow) { 
