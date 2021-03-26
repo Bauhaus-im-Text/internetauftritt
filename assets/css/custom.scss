@@ -4,17 +4,10 @@
 @charset "utf-8";
 
 /* Optionally tweak base body text and link color */
-$text-color: black !default;
-$link-color: black !default;
-$font-stack: arial !default;
-$base-font-family: arial !default;
+
 
 /* Set contain-narrow size for page-narrow layout */
-$container-narrow: 700px;
-
 /* Optionally limit container size to make reading easier */
-// $container-max: 750px;
-
 /* 
   Colors to theme 
   set colors in _data/theme-colors.csv
