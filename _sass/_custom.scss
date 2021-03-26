@@ -1,4 +1,8 @@
 /* add your scss tweaks here */
+.d-inline-flex {
+    max-width: 1868px;
+    margin-left: 200px;
+}
 /* Style the sidebar - fixed full height */
 .sidebar {
   height: 100%;
@@ -9,7 +13,7 @@
   left: 0px;
   background-color: white;
   overflow-x: hidden;
-  padding-top: 15px;
+  padding-top: 21px;
 }
 
 /* Style sidebar links */
