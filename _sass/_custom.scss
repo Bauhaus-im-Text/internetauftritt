@@ -17,13 +17,8 @@
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 16px;
-  color: #818181;
+  color: black;
   display: block;
-}
-
-/* Style links on mouse-over */
-.sidebar a:hover {
-  color: blue;
 }
 
 /* Style the main content */
@@ -36,4 +31,45 @@
 @media screen and (max-height: 450px) {
   .sidebar {padding-top: 15px;}
   .sidebar a {font-size: 16px;}
+}
+#nav-tools {
+  position: absolute;
+  top: 312px;
+  left: 24px;
+  list-style: none;
+  margin: 0;
+  width: 80px;
+}
+#nav-tools a {
+  text-decoration: none;
+}
+#nav-tools a.active {
+  color: blue;
+}
+#nav-tools a:hover {
+  color: blue;
+}
+#nav-tools li {
+  position: relative;
+}
+#nav-tools li input {
+  position: relative;
+  padding: 0 0 0 4px;
+  margin: 3px 0 0 2px;
+  border: 0;
+  background: transparent;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  width: 96px;
+  text-transform: uppercase;
+  outline: none;
+}
+
+#nav-tools li.tool-language-select {
+  line-height: 0.5;
+}
+
+#nav-tools li.tool-language-select > a {
+  display: block;
 }
