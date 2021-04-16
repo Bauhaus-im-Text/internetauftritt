@@ -36,12 +36,12 @@ bauhaus. organ der kostufra. sprachrohr der studierenden (1930-1932)
 thoener@bauhaus-dessau.de 
 
 
-Clarissa Seidel (in Elternzeit)
+Clarissa Seidel (in Elternzeit)  
 Projektmanagerin  
 seidel@bauhaus-dessau.de  
 
 
-Anne-Zora Westphal (Elternzeitvertretung)
-Projektmanagerin
+Anne-Zora Westphal (Elternzeitvertretung)  
+Projektmanagerin  
 westphal@bauhaus-dessau.de
 
