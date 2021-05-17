@@ -7,7 +7,7 @@ nav_order: 4
 Dr. Florian Strob  
 Leiter der Pilotprojekte Bauhaus im Text  
 Wissenschaftlicher Mitarbeiter im Direktorat der Stiftung Bauhaus Dessau  
-The New City. Principles of Planning (1944) von Ludwig Hilberseimer  
+*The New City. Principles of Planning* (1944) von Ludwig Hilberseimer  
 strob@bauhaus-dessau.de  
 
 
@@ -32,7 +32,7 @@ schaetzke@bauhaus-dessau.de
 
 Wolfgang Thöner  
 Leiter der Sammlung der Stiftung Bauhaus Dessau  
-bauhaus. organ der kostufra. sprachrohr der studierenden (1930-1932)  
+*bauhaus. organ der kostufra. sprachrohr der studierenden* (1930-1932)  
 thoener@bauhaus-dessau.de 
 
 
