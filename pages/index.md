@@ -6,9 +6,8 @@ layout: page
 ---
 <figure>
      <a class="image-link"><img src="Kostufra_Startseite_AdM Weimar_cut.png" data-image-ext="png" width="700" height="250" /></a>
-      <figcaption class="figure-caption text">Bauhaus-Universität Weimar, Archiv der Moderne, 
-      Sign.: BBA 311 © (Püschel, Konrad) Erbengemeinschaft nach 
-      Konrad Püschel</figcaption>
+      <figcaption class="figure-caption text">Bauhaus-Universität Weimar, 
+      Archiv der Moderne, Sign.: BBA 311, Fotografin unbekannt</figcaption>
 </figure>
 
 Das Bauhaus gehört weltweit zum Kern der Erzählung von der klassischen Moderne, 
