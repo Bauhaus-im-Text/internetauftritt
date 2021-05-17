@@ -5,8 +5,8 @@ nav_order: 1
 layout: page
 ---
 <figure>
-     <a class="image-link"><img src="Kostufra_Startseite_AdM Weimar_cut.png" data-image-ext="png" width="700" height="250" /></a>
-      <figcaption class="figure-caption text">Bauhaus-Universität Weimar, 
+     <a class="image-link"><img src="Kostufra_Startseite_AdM Weimar_cut.png" data-image-ext="png" width="700" height="300" /></a>
+      <figcaption class="figure-caption text-right">Bauhaus-Universität Weimar, 
       Archiv der Moderne, Sign.: BBA 311, Fotografin unbekannt</figcaption>
 </figure>
 
