@@ -1,6 +1,6 @@
 ---
 title: 
-nav: Platzhalter aus der Werkstatt ?
+nav: Aus der Werkstatt 
 nav_order: 3
 ---
 <h3> Vom Schreibmaschinenmodell zum Typoskript </h3>
