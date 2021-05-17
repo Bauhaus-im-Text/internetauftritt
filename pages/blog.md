@@ -13,7 +13,7 @@ Anhand von Textbefunden, die ich während der Transkription mit Transkribus, ein
 
 Im Unterschied zur Texterkennung bei Handschriften, ob manuell oder mittels eines Algorithmus, erlaubt die Analyse eines Typoskripts ohne Angaben eines Autors/einer Autorin, nur wenige Rückschlüsse auf die schreibende Person. Fotografien aus der Sammlung legen nahe, dass beispielsweise Walter Gropius seine Perkeo keineswegs immer selbst bediente, sondern eine seiner Sekretärinnen diese Aufgabe übernahm, wenn nicht sogar Ise Gropius. Häufige Verschreibungen, über Rechtschreibfehler hinaus, lassen sich auf die Tastenbelegung der Schreibmaschine zurückführen und können Aufschluss über die Versiertheit des einzelnen (Ab-)Schreibenden (10-Fingerschreibweise, Tempo u. ä.) geben. Klassisch sind auch im Fall der Kostufra die Ver- bzw. Überschreibung von g und h, g und b, e und w oder e und r. Die Zahl der Verschreibungen variiert von Ausgabe zu Ausgabe. Ob sich daraus schließen ließe, dass verschiedene Bauhaus-Studierende die Vervielfältigung der Zeitschrift unterstützten, wäre auch hier reine Spekulation. Sinnvoll wäre sicherlich der Vergleich verschiedener Exemplare einer Heftnummer. Welches Schreibmaschinenmodell dabei zum Einsatz kam, bleibt jedoch vorerst ungeklärt. Ein Indiz, im Abgleich mit dem Material, wäre die Untersuchung von Abnutzungserscheinungen, die bei jeder Maschine einzigartig sind.
 
-Karoline Lemke,
+Karoline Lemke,<br>
 Mai 2021
 
 ---
