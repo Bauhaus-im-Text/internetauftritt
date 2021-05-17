@@ -15,9 +15,10 @@ Im Unterschied zur Texterkennung bei Handschriften, ob manuell oder mittels eine
 
 Karoline Lemke,<br>
 Mai 2021
-
+  
+  
 <figure>
-     <a class="image-link"><img src="The New City_Covercut.png" data-image-ext="png" width="700" height="250" /></a>
+     <a class="image-link"><img src="The New City_Covercut.png" data-image-ext="png" width="700" height="300" /></a>
 </figure>
 <h3>Die Verfertigung einer Theorie beim Schreiben</h3>
 Ludwig Hilberseimer entwickelte am Bauhaus Dessau ab 1929 die Grundlagen seiner späteren städtebaulichen Theorien. 
