@@ -54,7 +54,7 @@ und Verkaufspreis lässt erkennen, worum es sich handelt. Die sich anschließend
 einseitig bedruckten, mit Klammern gehefteten Blätter sind, mit geringfügigen 
 Absätzen, Trennlinien sowie Unterbrechungen in Form von eingefügten Zeichnungen, 
 durchweg mit linksbündigem Fließtext gestaltet. Gelegentlich verschobene Textblöcke,
-verrutsche oder verschwommene Zeilen sind dem Vervielfältigungsverfahren geschuldet
+verrutschte oder verschwommene Zeilen sind dem Vervielfältigungsverfahren geschuldet
 bzw. auf schlecht eingespannte Papier- und Durchschlagbögen zurückzuführen. 
 Die Hektographie ist ein sogenannter Matrizen- bzw. Spiritusumdruck, bei dem 
 entweder mit Durchschlagpapier (Blaupause) oder einer mit einer entsprechenden 
