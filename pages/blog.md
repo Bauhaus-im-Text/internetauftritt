@@ -5,7 +5,7 @@ nav_order: 3
 ---
 
 <figure>
-     <a class="image-link"><img src="Aus dem Archiv_Objeke aus der Sammlung 33.png" data-image-ext="png" width="700 height="150" /></a>
+     <a class="image-link"><img src="Aus dem Archiv_Objeke aus der Sammlung 33.png" data-image-ext="png" width="700" height="150" /></a>
 </figure><figcaption class="figure-caption text-right">Stiftung Bauhaus Dessau, Sign.: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933 </figcaption>
   
 <h3> BAUHAUS-TEXTE IM ARCHIV, Teil 1 </h3>
