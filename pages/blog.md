@@ -3,6 +3,9 @@ title:
 nav: Aus der Werkstatt 
 nav_order: 3
 ---
+
+
+
 <h3> BAUHAUS-TEXTE IM ARCHIV, Teil 1 </h3>
 Das Herzstück des Dessauer Pilotprojekts „Bauhaus im Text“ ist – neben zwei exemplarischen Editionen – ein digitales Verzeichnis aller gedruckten und ungedruckten Schriftquellen, die von 1919 bis 1933 am Bauhaus entstanden oder von Bauhausangehörigen verfasst wurden. Mit diesem Meta-Findmittel wird das Grundgerüst für weiterführende Forschungs- und Editionsarbeiten zum textlichen Erbe des Bauhauses geschaffen.
 
@@ -13,7 +16,7 @@ Die Nützlichkeit und das Desiderat eines umfassenden, digitalen und öffentlich
 Mit dem an der Stiftung Bauhaus Dessau entstehenden Meta-Findmittel zu den historischen Bauhaus-Quellen werden die unterschiedlichen Standorte – Archive, Sammlungen, Bibliotheken – zusammengeführt. Die relevanten Texte werden entsprechend der international geltenden Standards verzeichnet sowie thematisch und standortübergreifend aufgelistet. Alle Dokumente mit institutionellem Bezug – etwa Verwaltungsakten oder Studierenden- und Prüfungszeugnisse – sollen ebenso sichtbar gemacht werden wie die überlieferten personenbezogenen Dokumente – etwa Entwürfe für Vorträge oder Manuskripte und andere Vorstufen zu Publikationen.
 Während Letztere für die Öffentlichkeit bestimmt waren, ermöglichen die Texte aus den Archiven einen Blick hinter die Kulissen des historischen Bauhauses. Sie offenbaren interne Prozesse und Strukturen und bringen auch bisher weitgehend unbekannt gebliebene Namen von Beteiligten zum Vorschein. Sie ermöglichen eine umfassendere Annäherung an die Veröffentlichungen der Schule und ihrer Angehörigen, indem sie die Entwicklungsstufen eines Textes aufzeigen, aber auch Antworten auf Fragen nach der Autorschaft, nach den benutzten Werkzeugen und anderen, spezifischen Kontexten geben können.
 
-Laura Gieser,
+Laura Gieser, <br>
 Juni 2021
 
 <h3> Vom Schreibmaschinenmodell zum Typoskript </h3>
