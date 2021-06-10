@@ -6,8 +6,9 @@ nav_order: 3
 
 
 <figure>
-     <a class="image-link"><img src="The New City_Covercut.png" data-image-ext="png" width="700" height="300" /></a>
+     <a class="image-link"><img src="Aus dem Archiv_Objekte aus der Sammlung".png" data-image-ext="png" width="700" height="300" /></a>
 </figure>
+
 <h3> BAUHAUS-TEXTE IM ARCHIV, Teil 1 </h3>
 Das Herzstück des Dessauer Pilotprojekts „Bauhaus im Text“ ist – neben zwei exemplarischen Editionen – ein digitales Verzeichnis aller gedruckten und ungedruckten Schriftquellen, die von 1919 bis 1933 am Bauhaus entstanden oder von Bauhausangehörigen verfasst wurden. Mit diesem Meta-Findmittel wird das Grundgerüst für weiterführende Forschungs- und Editionsarbeiten zum textlichen Erbe des Bauhauses geschaffen.
 
