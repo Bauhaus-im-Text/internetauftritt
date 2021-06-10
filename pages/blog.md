@@ -4,7 +4,6 @@ nav: Aus der Werkstatt
 nav_order: 3
 ---
 
-
 <figure>
      <a class="image-link"><img src="Aus dem Archiv_Objeke aus der Sammlung 33.png" data-image-ext="png" width="700" height="300" /></a>
 </figure>
