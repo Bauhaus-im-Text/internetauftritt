@@ -9,6 +9,8 @@ nav_order: 3
 <figure>
      <a class="image-link"><img src="Aus dem Archiv_Objeke aus der Sammlung 33.png" data-image-ext="png" width="700" height="150" /></a>
 </figure><figcaption class="figure-caption text-right">Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933 </figcaption>
+
+
   
 <h3> Bauhaus-Texte im Archiv, Teil 1 </h3>
 Das Herzstück des Dessauer Pilotprojekts „Bauhaus im Text“ ist – neben zwei exemplarischen Editionen – ein digitales Verzeichnis aller gedruckten und ungedruckten Schriftquellen, die von 1919 bis 1933 am Bauhaus entstanden oder von Bauhausangehörigen verfasst wurden. Mit diesem Meta-Findmittel wird das Grundgerüst für weiterführende Forschungs- und Editionsarbeiten zum textlichen Erbe des Bauhauses geschaffen.
