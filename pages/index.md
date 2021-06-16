@@ -10,6 +10,8 @@ layout: page
       Archiv der Moderne, Sign.: BBA 311, Fotografin unbekannt</figcaption>
 </figure>
 &nbsp;  
+&nbsp;  
+<h3>Bauhaus im Text</h3>
 Das Bauhaus gehört weltweit zum Kern der Erzählung von der klassischen Moderne, 
 sei es in Architektur, Design, Kunst, Pädagogik oder Theater. Darüber hinaus hat das 
 Bauhaus auch ein bedeutendes textliches Erbe hinterlassen, dem bislang eher ein 
@@ -21,7 +23,7 @@ Wesentliches in Texten dargelegt. Diese Texte müssen zum integralen Bestandteil
 Arbeit und Lehre gezählt werden; eigene Buch- und Zeitschriftenreihen zeugen in 
 exemplarischer Weise davon.
 
-Die Pilotprojekte Bauhaus im Text (2020-2022) widmen sich erstmals systematisch 
+Die Pilotprojekte "Bauhaus im Text" (2020-2022) widmen sich erstmals systematisch 
 und kritisch dem textlichen Erbe des Bauhauses. Sie markieren den Beginn eines 
 neuen Forschungsschwerpunkts an der Stiftung Bauhaus Dessau. Indem sie einen bislang 
 einzigartigen, konzentrierten Fokus auf das textliche Erbe legen, ermöglichen sie 
