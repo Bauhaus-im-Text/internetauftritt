@@ -1,11 +1,10 @@
 ---
-title: Annotiertes Verzeichnis Bauhaus im Text 1919-1933
+title: 
 nav: Pilotprojekte
 nav_order: 2
+layout: page
 ---
-
-
-
+<h3> Annotiertes Verzeichnis Bauhaus im Text 1919-1933 </h3>
 Ein annotiertes Verzeichnis aller Texte, die Bauhausangehörige zu ihrer Zeit am Bauhaus und zum Bauhaus verfasst 
 haben, gibt es bisher nicht. Hans Maria Wingler legte 1962 mit dem Buch *Das Bauhaus. Weimar, Dessau, Berlin 1919–1933* 
 zwar eine erste Anthologie vor, die die Rezeption des Bauhauses wesentlich prägte. Sie umfasst jedoch lediglich eine kleine Auswahl 
@@ -17,9 +16,9 @@ Das Textverzeichnis wird digital veröffentlicht werden und ein wertvolles Reche
 Darüber hinaus entstehen parallel zwei historisch-kritische Hybrideditionen, die exemplarisch den 
 innovativen, textbasierten Zugang zum Bauhaus verdeutlichen und seine Möglichkeiten wie auch Kontexte in der bisherigen 
 Forschung aufzeigen sollen.
-
-
-### Edition *bauhaus. organ der kostufra. sprachrohr der studierenden (1930-1932)*
+&nbsp;  
+&nbsp;  
+<h3> Edition <i>bauhaus. organ der kostufra. sprachrohr der studierenden (1930-1932)</i></h3>  
 
 Anhand der Zeitschrift *bauhaus. sprachrohr der studierenden. organ der kostufra*, der Zeitschrift kommunistischer 
 Studierender, wird das bis heute viel und kontrovers diskutierte politische Leben und Wirken am historischen Bauhaus 
@@ -30,9 +29,9 @@ Apparat als historisch-kritische Edition digital zur Verfügung stehen. Eine Les
 
 Eine Tagung zur Zeitschrift *bauhaus. sprachrohr der studierenden. organ der kostufra* ist für Februar 2022 geplant.
 Ihre Ergebnisse sollen anschließend in einem Tagungsband veröffentlicht werden.
-
-
-### Edition *The New City. Principles of Planning (1944) von Ludwig Hilberseimer*
+&nbsp;  
+&nbsp;  
+<h3> Edition <i>The New City. Principles of Planning (1944) von Ludwig Hilberseimer</i></h3>
 
 Ludwig Hilberseimer (1885-1967) gilt als einer der führenden Theoretiker des Neuen Bauens und insbesondere des modernen, 
 funktionalen Städtebaus. Sein Buch *Großstadtarchitektur* aus dem Jahr 1927 war maßgeblich für diese Sicht auf den Architekten, 
