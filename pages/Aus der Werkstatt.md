@@ -6,7 +6,7 @@ layout: page
 ---
 
 <figure>
-     <a class="image-link"><img src="Aus dem Archiv_Objekte aus der Sammlung 33.png" data-image-ext="png" width="device-width" height="150" /></a>
+     <a class="image-link"><img src="Aus dem Archiv_Objekte aus der Sammlung 33.png" data-image-ext="png" width="700" height="150" /></a>
 </figure><figcaption class="figure-caption text-left">Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933</figcaption>
 &nbsp;  
 <h3> Bauhaus-Texte im Archiv, Teil 1 </h3>
@@ -160,7 +160,7 @@ Mai 2021
 &nbsp;  
 &nbsp;  
 <figure>
-     <a class="image-link"><img src="The New City_Covercut.png" data-image-ext="png" width="device-width" height="300" /></a>
+     <a class="image-link"><img src="The New City_Covercut.png" data-image-ext="png" width="700" height="300" /></a>
 </figure>
 &nbsp;  
 <h3>Die Verfertigung einer Theorie beim Schreiben</h3>
