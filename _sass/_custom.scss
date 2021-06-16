@@ -1,7 +1,7 @@
 /* add your scss tweaks here */
 .d-inline-flex {
     max-width: 1868px;
-    margin-left: 200px;
+    margin-left: 50px;
 }
 /* Style the sidebar - fixed full height */
 .sidebar {
@@ -27,7 +27,7 @@
 
 /* Style the main content */
 .main {
-  margin-left: 160px; /* Same as the width of the sidenav */
+  align-content: flex-start;
   padding: 0px 10px;
 }
 
