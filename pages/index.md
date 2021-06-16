@@ -10,7 +10,6 @@ layout: page
       Archiv der Moderne, Sign.: BBA 311, Fotografin unbekannt</figcaption>
 </figure>
 &nbsp;  
-&nbsp;  
 <h3>Bauhaus im Text</h3>
 Das Bauhaus gehört weltweit zum Kern der Erzählung von der klassischen Moderne, 
 sei es in Architektur, Design, Kunst, Pädagogik oder Theater. Darüber hinaus hat das 
