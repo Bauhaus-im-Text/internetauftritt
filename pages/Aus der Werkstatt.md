@@ -2,6 +2,7 @@
 title: 
 nav: Aus der Werkstatt 
 nav_order: 3
+layout: page
 ---
 
 <figure>
