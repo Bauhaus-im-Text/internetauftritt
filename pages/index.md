@@ -4,7 +4,7 @@ nav: Projektbeschreibung
 nav_order: 1
 layout: page
 ---
-![Bauhaus-Universität Weimar, Archiv der Moderne, Sign.: BBA 311, Fotografin unbekannt](/images/Kostufra_Startseite_AdM Weimar_cut.png)
+![Bauhaus-Universität Weimar, Archiv der Moderne, Sign.: BBA 311, Fotografin unbekannt](images/Kostufra_Startseite_AdM Weimar_cut.png)
 
 ### Bauhaus im Text
 

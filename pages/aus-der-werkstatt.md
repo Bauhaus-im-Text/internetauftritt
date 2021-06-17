@@ -4,7 +4,7 @@ nav: Aus der Werkstatt
 nav_order: 3
 layout: page
 ---
-![Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933](/images/aus-dem-archiv_objekte-aus-der-sammlung-33.png)
+![Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933](images/aus-dem-archiv_objekte-aus-der-sammlung-33.png)
 
 ### Bauhaus-Texte im Archiv, Teil 1
 
@@ -155,7 +155,7 @@ Maschine einzigartig sind.
 Karoline Lemke,  
 Mai 2021
 
-![The New City_Covercut](/images/the-new-city_covercut.png)
+![The New City_Covercut](images/the-new-city_covercut.png)
 
 <h3>Die Verfertigung einer Theorie beim Schreiben</h3>
 Ludwig Hilberseimer entwickelte am Bauhaus Dessau ab 1929 die Grundlagen seiner späteren städtebaulichen Theorien. 
