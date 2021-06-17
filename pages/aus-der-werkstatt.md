@@ -4,12 +4,10 @@ nav: Aus der Werkstatt
 nav_order: 3
 layout: page
 ---
+![Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933](/images/aus-dem-archiv_objekte-aus-der-sammlung-33.png)
 
-<figure>
-     <a class="image-link"><img src="Aus dem Archiv_Objekte aus der Sammlung 33.png" data-image-ext="png" width="700" height="150" /></a>
-</figure><figcaption class="figure-caption text-left">Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933</figcaption>
-&nbsp;  
-<h3> Bauhaus-Texte im Archiv, Teil 1 </h3>
+### Bauhaus-Texte im Archiv, Teil 1
+
 Das Herzstück des Dessauer Pilotprojekts „Bauhaus im Text“ ist – neben zwei 
 exemplarischen Editionen – ein digitales Verzeichnis aller gedruckten und 
 ungedruckten Schriftquellen, die von 1919 bis 1933 am Bauhaus entstanden oder 
@@ -75,9 +73,8 @@ Kontexten geben können.
   
 Laura Gieser,  
 Juni 2021
-&nbsp;  
-&nbsp;  
-<h3> Vom Schreibmaschinenmodell zum Typoskript </h3>
+
+### Vom Schreibmaschinenmodell zum Typoskript
 Walter Gropius hatte eine Perkeo der Firma Clemens Müller A.G. Dresden, die Redaktion
 der *bauhaus*-Zeitschrift bekam ein Modell der Firma Adler geliehen und auch die 
 Zeitschrift kommunistischer Studierender am Bauhaus wurde auf einer geschrieben. 
@@ -157,12 +154,9 @@ Maschine einzigartig sind.
   
 Karoline Lemke,  
 Mai 2021
-&nbsp;  
-&nbsp;  
-<figure>
-     <a class="image-link"><img src="The New City_Covercut.png" data-image-ext="png" width="700" height="300" /></a>
-</figure>
-&nbsp;  
+
+![The New City_Covercut](/images/the-new-city_covercut.png)
+
 <h3>Die Verfertigung einer Theorie beim Schreiben</h3>
 Ludwig Hilberseimer entwickelte am Bauhaus Dessau ab 1929 die Grundlagen seiner späteren städtebaulichen Theorien. 
 1944 veröffentlichte er mit *The New City. Principles of Planning* in Chicago sein erstes Buch in englischer Sprache. 
@@ -213,4 +207,3 @@ physischen Aspekte des gedruckten Textes in Text übertragen zu können.
   
 Dr. Florian Strob, Leiter der Pilotprojekte *Bauhaus im Text*  
 April 2021
-  
