@@ -4,6 +4,7 @@ nav: Pilotprojekte
 nav_order: 2
 layout: page
 ---
+
 ### Annotiertes Verzeichnis Bauhaus im Text 1919-1933
 
 Ein annotiertes Verzeichnis aller Texte, die Bauhausangehörige zu ihrer Zeit am Bauhaus und zum Bauhaus verfasst 

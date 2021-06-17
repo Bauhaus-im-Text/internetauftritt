@@ -4,7 +4,10 @@ nav: Aus der Werkstatt
 nav_order: 3
 layout: page
 ---
-![Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933](images/aus-dem-archiv_objekte-aus-der-sammlung-33.png)
+<figure class="figure p-3 w-100">
+    <img src="images/aus-dem-archiv_objekte-aus-der-sammlung-33.png" alt="" class="figure-img img-fluid">
+    <figcaption class="figure-caption">Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933</figcaption>
+</figure>
 
 ### Bauhaus-Texte im Archiv, Teil 1
 
