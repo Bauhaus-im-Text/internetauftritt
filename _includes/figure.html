@@ -12,6 +12,6 @@
 
 {% endcomment %}
 <figure class="figure w-100">
-    <img src="{{ include.img | relative_url }}" alt="{{ include.alt }}" {% if include.width %}style="width:{{ include.width }};"{% endif %} class="figure-img img-fluid">
+    <img src="{{ include.img | relative_url }}" alt="{{ include.alt }}" {% if include.width %}style="width:{{ include.width }}!important;"{% endif %} class="figure-img img-fluid">
     {% if include.caption %}<figcaption class="figure-caption">{{ include.caption | markdownify }}</figcaption>{% endif %}
 </figure>

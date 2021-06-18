@@ -1,1 +1,8 @@
 /* add your scss tweaks here */
+figure {
+  .img-fluid {
+    display: block;
+    width: 100%;
+    max-width: auto;
+  }
+}
