@@ -15,6 +15,9 @@ Demo: <https://thecdil.github.io/bootstrap-template/>
     - `title` will appear as h1 at top of the page content.
     - `nav` if this option has a value, it will appear in the navbar as link to this page.
     - `nav_order` navbar items will be sorted using this number. 
+    - `img` will add an image before the title
+    - `alt` the alt attribute of the image tag
+    - `caption` the image caption
 - Use `includes` to simplify adding Bootstrap features to Markdown pages (see comments in `_include/` files for instructions).
 
 See [docs/create-website.md](https://github.com/thecdil/bootstrap-template/blob/main/docs/create-website.md) for more details.
