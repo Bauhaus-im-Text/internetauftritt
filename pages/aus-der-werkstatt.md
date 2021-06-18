@@ -1,11 +1,12 @@
 ---
 title: Bauhaus-Texte im Archiv, Teil 1
+lang: de
 nav: Aus der Werkstatt
 nav_order: 3
 layout: page
-img: /images/aus-dem-archiv_objekte-aus-der-sammlung-33.png
+img: images/aus-dem-archiv_objekte-aus-der-sammlung-33.png
 alt: Ausschnitt eines Beiratprotokolls von 1933
-caption: Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933
+caption: "Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933"
 ---
 
 Das Herzstück des Dessauer Pilotprojekts „Bauhaus im Text“ ist – neben zwei 

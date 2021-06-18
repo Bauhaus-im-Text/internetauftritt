@@ -1,11 +1,12 @@
 ---
 title: Bauhaus im Text
+lang: de
 nav: Projektbeschreibung
 nav_order: 1
 layout: page
-img: /images/Kostufra_Startseite_AdM Weimar_cut.png
+img: images/Kostufra_Startseite_AdM Weimar_cut.png
 alt: Bauhaus-Universität Weimar
-caption: Bauhaus-Universität Weimar, Archiv der Moderne, Sign.: BBA 311, Fotografin unbekannt
+caption: "Bauhaus-Universität Weimar, Archiv der Moderne, Sign.: BBA 311, Fotografin unbekannt"
 ---
 
 Das Bauhaus gehört weltweit zum Kern der Erzählung von der klassischen Moderne, 

@@ -1,5 +1,6 @@
 ---
 title: Team
+lang: de
 nav: Team
 nav_order: 4
 ---
