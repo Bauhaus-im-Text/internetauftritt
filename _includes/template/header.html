@@ -9,8 +9,8 @@
                 {% assign nav_pages = site.html_pages | where_exp: 'p','p.nav' | sort: 'nav_order' %}
                 {% for p in nav_pages %}
                 {% if page.lang == p.lang %}
-                <li class="nav-item{% if page.url == p.url %} active{% endif %}">
-                    <a class="nav-link" href="{{ p.url | relative_url }}">
+                <li class="nav-item{% if page.url == p.url %} active{% endif %} mr-md-3">
+                    <a class="nav-link px-md-0" href="{{ p.url | relative_url }}">
                         {% if p.nav == true %}{{ p.title }}{% else %}{{ p.nav }}{% endif %}
                     </a>
                 </li>

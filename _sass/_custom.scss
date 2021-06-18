@@ -1,4 +1,9 @@
 /* add your scss tweaks here */
+
+body {
+    font-family: Arial,sans-serif !important;
+}
+
 .container-left {
   margin-left: 0;
   margin-right: 0;
@@ -8,11 +13,26 @@
   max-width: 1200px;
 }
 
-
 figure {
   .img-fluid {
     display: block;
     width: 100%;
     max-width: auto;
   }
+}
+
+.navbar-nav {
+    .nav-item {
+        > .nav-link {
+            color: $text-color;
+            &:hover {
+                color: $link-color;
+            }
+        }
+        &.active {
+            > .nav-link {
+                color: $link-color;
+            }
+        }
+    }
 }
