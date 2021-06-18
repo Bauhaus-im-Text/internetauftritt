@@ -1,4 +1,14 @@
 /* add your scss tweaks here */
+.container-left {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.container-fluid {
+  max-width: 1200px;
+}
+
+
 figure {
   .img-fluid {
     display: block;
