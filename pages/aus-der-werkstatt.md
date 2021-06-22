@@ -1,15 +1,14 @@
 ---
-title: 
-nav: Aus der Werkstatt 
+title: Bauhaus-Texte im Archiv, Teil 1
+lang: de
+nav: Aus der Werkstatt
 nav_order: 3
 layout: page
+img: images/aus-dem-archiv_objekte-aus-der-sammlung-33.png
+alt: Ausschnitt eines Beiratprotokolls von 1933
+caption: "Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933"
 ---
 
-<figure>
-     <a class="image-link"><img src="Aus dem Archiv_Objekte aus der Sammlung 33.png" data-image-ext="png" width="700" height="150" /></a>
-</figure><figcaption class="figure-caption text-left">Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933</figcaption>
-&nbsp;  
-<h3> Bauhaus-Texte im Archiv, Teil 1 </h3>
 Das Herzstück des Dessauer Pilotprojekts „Bauhaus im Text“ ist – neben zwei 
 exemplarischen Editionen – ein digitales Verzeichnis aller gedruckten und 
 ungedruckten Schriftquellen, die von 1919 bis 1933 am Bauhaus entstanden oder 
@@ -43,15 +42,14 @@ zugänglichen Findmittels zu den historischen Schriftquellen des Bauhauses
 versteht sich heutzutage fast von selbst. Teilweise stehen bereits jetzt 
 wichtige digitale Findmittel zur Verfügung, um Vorrecherchen aus der Ferne
 zu betreiben. Die Bestände des Bauhaus-Archivs Berlin ebenso wie die anderer
-Einrichtungen sind in einem beträchtlichen Umfang über den Kalliope-Verbund 
-recherchierbar (https://kalliope-verbund.info). Ein Teil der Korrespondenz von 
+Einrichtungen sind in einem beträchtlichen Umfang über den [Kalliope-Verbund](https://kalliope-verbund.info) 
+recherchierbar. Ein Teil der Korrespondenz von 
 Walter Gropius wurde im Rahmen des Pilotprojekts „open archive walter gropius“ 
-des Bauhaus-Archivs Berlin digitalisiert und kann auf der Webseite eingesehen 
-werden (http://open-archive.bauhaus.de). Institutionen wie das Landesarchiv 
+des Bauhaus-Archivs Berlin digitalisiert und kann auf der [Webseite eingesehen](http://open-archive.bauhaus.de) 
+werden. Institutionen wie das Landesarchiv 
 Thüringen – Hauptstaatsarchiv Weimar haben darüber hinaus wesentliche Vorarbeiten
 geleistet, indem sie unter anderem ihre Bestände zum Staatlichen Bauhaus Weimar 
-komplett digitalisiert und öffentlich zur Verfügung gestellt haben 
-(http://www.archive-in-thueringen.de/de/findbuch/view/bestand/25055). 
+komplett digitalisiert und [öffentlich zur Verfügung](http://www.archive-in-thueringen.de/de/findbuch/view/bestand/25055) gestellt haben . 
 Viele andere bedeutende Institutionen und Modellprojekte im In- und Ausland,
 die hier genannt werden könnten, zeigen, dass nicht zuletzt infolge der 
 Digitalisierung von Bibliotheks- und Archivbeständen das Thema der „Bauhaus-Texte“
@@ -75,16 +73,14 @@ Kontexten geben können.
   
 Laura Gieser,  
 Juni 2021
-&nbsp;  
-&nbsp;  
-<h3> Vom Schreibmaschinenmodell zum Typoskript </h3>
+
+### Vom Schreibmaschinenmodell zum Typoskript
 Walter Gropius hatte eine Perkeo der Firma Clemens Müller A.G. Dresden, die Redaktion
 der *bauhaus*-Zeitschrift bekam ein Modell der Firma Adler geliehen und auch die 
 Zeitschrift kommunistischer Studierender am Bauhaus wurde auf einer geschrieben. 
 Die Rede ist von der Schreibmaschine. Das Modell, das Gropius Mitte der 1920er 
 Jahre auf seinem Schreibtisch im Dessauer Direktorenwohnhaus stehen hatte, ist durch
-eine Fotografie seines Arbeitsplatzes von Lucia Moholy überliefert 
-(http://open-archive.bauhaus.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=76673&viewType=detailView). 
+eine [Fotografie seines Arbeitsplatzes](http://open-archive.bauhaus.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=76673&viewType=detailView) von Lucia Moholy überliefert. 
 Ein entsprechendes Objekt befindet sich in der Sammlung der Stiftung Bauhaus Dessau. 
 Die „überlassung der adler-schreibmaschine incl. tisch“ geht aus dem Durchschlag 
 eines Briefs von Hannes Meyer an Mira Lührs vom 16. Mai 1928 aus dem Stadtarchiv 
@@ -157,12 +153,9 @@ Maschine einzigartig sind.
   
 Karoline Lemke,  
 Mai 2021
-&nbsp;  
-&nbsp;  
-<figure>
-     <a class="image-link"><img src="The New City_Covercut.png" data-image-ext="png" width="700" height="300" /></a>
-</figure>
-&nbsp;  
+
+{% include figure.html img="images/the-new-city_covercut.png" alt="The New City" caption="The New City, Covercut" %}
+
 <h3>Die Verfertigung einer Theorie beim Schreiben</h3>
 Ludwig Hilberseimer entwickelte am Bauhaus Dessau ab 1929 die Grundlagen seiner späteren städtebaulichen Theorien. 
 1944 veröffentlichte er mit *The New City. Principles of Planning* in Chicago sein erstes Buch in englischer Sprache. 
@@ -213,4 +206,3 @@ physischen Aspekte des gedruckten Textes in Text übertragen zu können.
   
 Dr. Florian Strob, Leiter der Pilotprojekte *Bauhaus im Text*  
 April 2021
-  

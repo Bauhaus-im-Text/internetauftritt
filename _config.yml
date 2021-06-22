@@ -12,9 +12,9 @@
 title: Bauhaus im Text
 description: "Ein Projekt der Stiftung Bauhaus Dessau, gefördert durch das Ministerium für Wirtschaft, Wissenschaft und Digitalisierung des Landes Sachsen-Anhalt"
 year: 2021
-author: 
+author: Karonline Lemke
 # add search box to navbar, true/false
-search: true
+search: false
 
 ##########
 # URL VARIABLES [optional!]
@@ -23,13 +23,13 @@ search: true
 #
 # use url for the domain, e.g. https://thecdil.github.io
 # on gh-pages follow the pattern: https://username.github.io
-url: https://KLemke-85.github.io
+url: https://bauhaus-im-text.github.io
 # use baseurl to add subsection of the domain, e.g. /timelinejs-template
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
 baseurl: /internetauftritt
 # location of code, the full url to your github repository
-source-code: https://bauhaus-im-text.github.io/internetauftritt/
+source-code: https://github.com/Bauhaus-im-Text/internetauftritt
 
 ##########
 # GOOGLE ANALYTICS [optional!]
@@ -42,7 +42,7 @@ google-analytics-id:
 # ROBOTS EXCLUDE [optional!]
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+# noindex: true
 
 
 #######
@@ -56,6 +56,7 @@ defaults:
     values:
       layout: page
       permalink: /:basename:output_ext
+      lang: de
 
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE]

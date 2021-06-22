@@ -1,14 +1,13 @@
 <!doctype html>
-<html lang="de" class="h-100">
+<html lang="{% if page.lang %}{{ page.lang }}{% else %}de{% endif %}" class="h-100">
     <head>
         {% include template/head.html %}
     </head>
-    <body class="d-inline-flex flex-column h-100">
-        
-        <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
+    <body class="d-flex flex-column h-100 px-sm-2 px-md-3">
+        <div id="skip-to-content"><a href="#maincontent">{% if page.lang == "de" %}Direkt zum Hauptinhalt{% else %}Skip to main content{% endif %}</a></div>
         {% include template/header.html %}
-        <main id="maincontent" role="main" aria-label="Content" class="fbox-s span3 col-10"> 
-        {{ content }}
+        <main id="maincontent" role="main" aria-label="Content" class="mb-4 flex-shrink-0">
+            {{ content }}
         </main>
         {% include template/footer.html %}
         {% include template/foot.html %}

@@ -1,17 +1,33 @@
-<nav class="navbar navbar-expand-md navbar-light bg-white border-bottom border-dark">
-    <div class="container">
-        
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span></button>
-
+<div class="container-fluid container-left">
+    <nav class="navbar navbar-expand-md navbar-light bg-white px-0">
+        <a class="navbar-brand mr-4" href="index.html">
+            Bauhaus im Text
+        </a>
+        <button class="navbar-toggler rounded-0 border-0 px-0" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
         <div class="collapse navbar-collapse" id="navbarContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav w-100">
                 {% assign nav_pages = site.html_pages | where_exp: 'p','p.nav' | sort: 'nav_order' %}
                 {% for p in nav_pages %}
-                <li class="nav-item{% if page.url == p.url %} active{% endif %}">
-                <a class="nav-link" href="{{ p.url | relative_url }}">{% if p.nav == true %}{{ p.title }}{% else %}{{ p.nav }}{% endif %}</a>
+                {% if page.lang == p.lang %}
+                <li class="nav-item{% if page.url == p.url %} active{% endif %} mr-md-3">
+                    <a class="nav-link px-md-0" href="{{ p.url | relative_url }}">
+                        {% if p.nav == true %}{{ p.title }}{% else %}{{ p.nav }}{% endif %}
+                    </a>
                 </li>
+                {% endif %}
                 {% endfor %}
+                <li class="nav-item ml-md-auto">
+                    <a class="d-inline-block nav-link px-md-0{% if page.lang == "de" %} nav-lang-active{% endif %}" href="index.html" title="Deutsche Sprache">
+                        <span class="d-none d-md-inline">DE</span><span class="d-md-none">Deutsch</span>
+                    </a>
+                    /
+                    <a class="d-inline-block nav-link px-md-0{% if page.lang == "en" %} nav-lang-active{% endif %}" href="en.html" title="English language">
+                        <span class="d-none d-md-inline">EN</span><span class="d-md-none">English</span>
+                    </a>
+                </li>
             </ul>
         </div>
-</nav>
+    </nav>
+</div>

@@ -13,8 +13,12 @@ Demo: <https://thecdil.github.io/bootstrap-template/>
 - In your new repository visit "Settings" to activate GitHub Pages
 - Edit and create pages in the "pages" folder (probably in Markdown). Use page yml front matter to populate the navbar:
     - `title` will appear as h1 at top of the page content.
+    - `lang` the language of the page (de|en, default de)
     - `nav` if this option has a value, it will appear in the navbar as link to this page.
     - `nav_order` navbar items will be sorted using this number. 
+    - `img` will add an image before the title
+    - `alt` the alt attribute of the image tag
+    - `caption` the image caption
 - Use `includes` to simplify adding Bootstrap features to Markdown pages (see comments in `_include/` files for instructions).
 
 See [docs/create-website.md](https://github.com/thecdil/bootstrap-template/blob/main/docs/create-website.md) for more details.
