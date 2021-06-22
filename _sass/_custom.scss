@@ -1,38 +1,69 @@
 /* add your scss tweaks here */
 
 body {
-    font-family: Arial,sans-serif !important;
+    font-family: Arial, sans-serif !important;
+}
+
+main {
+    h1,
+    .h1,
+    h2,
+    .h2,
+    h3,
+    .h3 {
+        font-size: 1.75rem;
+        margin-bottom: 1rem;
+        margin-top: 1.5rem;
+    }
 }
 
 .container-left {
-  margin-left: 0;
-  margin-right: 0;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .container-fluid {
-  max-width: 1200px;
+    max-width: 1200px;
 }
 
 figure {
-  .img-fluid {
-    display: block;
-    width: 100%;
-    max-width: auto;
-  }
+    .img-fluid {
+        display: block;
+        width: 100%;
+        max-width: none;
+    }
+
+    .figure-caption {
+        color: $black;
+    }
+}
+
+nav {
+    &.navbar {
+        border-bottom: 1px solid $black;
+        margin-bottom: 1rem;
+    }
 }
 
 .navbar-nav {
+    position: relative;
+    top: 2px;
+
     .nav-item {
         > .nav-link {
             color: $text-color;
+
+            &.nav-lang-active,
             &:hover {
                 color: $link-color;
             }
         }
+
         &.active {
             > .nav-link {
                 color: $link-color;
             }
         }
     }
+
 }

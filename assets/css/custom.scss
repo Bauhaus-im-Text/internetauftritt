@@ -4,7 +4,8 @@
 @charset "utf-8";
 
 /* Optionally tweak base body text and link color */
-$text-color: #000;
+$black: #000;
+$text-color: $black;
 $link-color: #0410f2;
 
 /* Set contain-narrow size for page-narrow layout */
