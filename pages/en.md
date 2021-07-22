@@ -1,5 +1,5 @@
 ---
-title: Project Description
+title: Bauhaus in Text
 lang: en
 nav: Project Description
 nav_order: 1
@@ -22,7 +22,8 @@ at the Bauhaus Dessau Foundation. By placing a hitherto unique, concentrated foc
 heritage, they enable an innovative approach to understanding the historical Bauhaus and lay the
 foundations for further research. In cooperation with international partner institutions, an annotated
 index of all texts written by members of the Bauhaus between 1919 and 1933 and two historical-critical
-hybrid editions are being created.  
+hybrid editions are being created.
+  
 The Bauhaus is at the core of the narrative of classical modernism worldwide, whether in architecture,
 design, art, pedagogy or theatre. In addition, the Bauhaus has also left behind a significant textual
 legacy, which has so far tended to have a secondary character in the consideration of the buildings,
