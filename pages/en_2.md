@@ -1,5 +1,5 @@
 ---
-title: Annotated Index: Bauhaus Written Heritage 1919-1933
+title: Annotated Index Bauhaus Written Heritage 1919-1933
 lang: en
 nav: Pilot Projects
 nav_order: 2
