@@ -17,7 +17,7 @@ bibliographical and archival standards. The text index will be published digital
 In addition, two historical-critical editions are being produced in parallel, which will exemplify the innovative,
 text-based approach to the Bauhaus and demonstrate its possibilities as well as contexts in previous research.
   
-### Edition: *bauhaus. organ der kostufra. sprachrohr der studierenden (1930-1932)*
+### Edition *bauhaus. organ der kostufra. sprachrohr der studierenden (1930-1932)*
 Through a journal of communist students, *bauhaus. organ der kostufra. sprachrohr der studierenden*, it will be possible
 to examine the political life and work at the historic Bauhaus, which is still much and controversially discussed today.
 The journal was published from 1930 to 1932 in 15 hectographed issues, varying from 5 to 18 pages. In combination with
@@ -28,7 +28,7 @@ will be published in printed form.
 A conference on the journal *bauhaus. organ der kostufra. sprachrohr der studierenden* will take place in Dessau in February 2022.
 Its results will subsequently be published in the conference proceedings.
   
-### Edition: *The New City. Principles of Planning (1944) by Ludwig Hilberseimer*
+### Edition *The New City. Principles of Planning (1944) by Ludwig Hilberseimer*
 Ludwig Hilberseimer (1885-1967) is considered one of the leading theorists of Neues Bauen (New Building) and especially
 of modern, functional urbanism. His book *Großstadtarchitektur* from 1927 was significant for this view of the architect, 
 urban planner and teacher. Beginning with his professorial chair at the Bauhaus in Dessau, however, Hilberseimer’s 
