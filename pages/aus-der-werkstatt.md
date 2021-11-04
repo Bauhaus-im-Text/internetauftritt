@@ -1,14 +1,91 @@
 ---
-title: Bauhaus-Texte im Archiv, Teil 1
+title: Bauhaus-Texte im Archiv, Teil 2 - Jeder einmal in Dessau!
 lang: de
 nav: Aus der Werkstatt
 nav_order: 3
 layout: page
-img: images/aus-dem-archiv_objekte-aus-der-sammlung-33.png
-alt: Ausschnitt eines Beiratprotokolls von 1933
-caption: "Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933"
+img: images/Werbefilm_Clemens.png
+alt: Ausschnitt eines Typoskripts Werbefilm
+caption: "Roman Clemens, Werbefilm für die Stadt Dessau, Typoskript, 1931, 
+Stiftung Bauhaus Dessau, Schenkung Bernd Freese 2021 (Ausschnitt)"
 ---
 
+Dank des Entgegenkommens vieler Institutionen und Einzelpersonen wird das Projekt eines
+auf Vollständigkeit zielenden Verzeichnisses aller Bauhaus-Texte aus den Jahren 1919–1933 
+realisierbar. Freundliche Hinweise und professionelle Unterstützung bei der Lokalisierung 
+und Bestimmung von Archivalien, die Zurverfügungstellung von weiterführenden Materialien 
+ebenso wie die Unterstützung vor Ort in Archiven und Sammlungen stellen wesentliche 
+Voraussetzungen für das Zustandekommen dieses Metafindmittels zu den überlieferten 
+historischen Bauhaustexten dar. Dies gilt umso mehr für Dokumente, die sich nicht in 
+öffentlichem Besitz befinden. In Frankfurt am Main lebt Bernd Freese inmitten seiner 
+exquisiten Bauhaus-Sammlung. Er erwies sich schon in vielen anderen Fällen als 
+entgegenkommend, wenn es um die Veröffentlichung seiner Sammlungsobjekte ging. 
+Großzügig sagte er auch unserem Projekt seine Unterstützung zu. Ein außerordentlicher 
+Gewinn für unser Verzeichnis, denn Bernd Freese, der ausschließlich historische Stücke
+aus der Bauhauszeit sammelt, interessiert sich insbesondere auch für die Publikationen
+des Bauhauses und für die Bauhaustypografie. Aus diesem Grund fanden seltene Bauhaustexte
+– Handschriften und Druckwerke gleichermaßen – Eingang in seine Sammlung.  
+
+Drei Dokumentenordner, sortiert nach den ehemaligen Standorten des Bauhauses – Weimar, 
+Dessau und Berlin – hat der Sammler im Laufe der Zeit sorgfältig zusammengetragen. Ein 
+Highlight unter den Dessauer Dokumenten stellen sicherlich die Erwerbungen aus dem 
+Nachlass von Roman Clemens (1910–1992) dar. Der gebürtige Dessauer studierte seit
+1927 am Bauhaus und trat nach der Grundlehre in die Bühnenwerkstatt bei Oskar Schlemmer
+ein. Als dieser das Bauhaus verließ, gehörte Clemens zu denjenigen Studierenden, die 
+sich für das Weiterbestehen der „Babü“ einsetzten und skizzierte sogar den Lehrplan 
+für eine „neue Bauhausbühne“. Seit 1930 war Clemens am Bauhaus beurlaubt und arbeitete
+am Friedrich-Theater in Dessau, wo er das Bühnenbild für zeitgenössische und klassische
+Theaterstücke gestaltete.
+  
+Etwas Glück braucht jede Recherche: So verhalf uns Bernd Freeses Sammelleidenschaft
+zu einem unverhofften Fund mit Lokalbezug – und offenbarte uns ein bislang unbekannt 
+gebliebenes Filmprojekt von Roman Clemens aus seiner Dessauer Studienzeit.
+  
+Mit einem Schreiben, datiert auf den 19. März 1931 und bezugnehmend „auf die 
+Unterredung vom 4. d. Mts.“, überreichte Clemens dem Oberbürgermeister der Stadt 
+und Förderer des Bauhauses, Fritz Hesse, „einen Werbefilm-Entwurf für die Stadt Dessau“.
+Das maschinengetippte, einseitige Typoskript lässt sich als knappes Drehbuch für einen
+15-minütigen Film interpretieren und präsentiert eine Fahrt durch die Stadt. Clemens‘ 
+Stadtbesucher ist kein Flaneur, sondern ein Automobilist, der allerdings hinter der Kamera,
+die er trägt, verschwindet. Im Sinne der damaligen Filmästhetik ist die Kamera der eigentliche
+Hauptprotagonist des kurzen Werbefilms. Clemens‘ Entwurf zeigt Dessau als eine Abfolge von
+bewegten Bildern, wobei sich die Kamera von Sehenswürdigkeit zu Sehenswürdigkeit fortbewegt,
+die ihrerseits durch 19 Titel eingeleitet werden. „Die Einfahrt“ erfolgt „im Süden der
+Stadt. Kurze Bildschnitte von Gropius-Siedlung, Paulick-Siedlung, Konsum-Neubau bis
+zum Zentrum. Über das Rondel hinweg zum Verkehrs-Knotenpunkt.“ Weiter geht es durch
+die Innenstadt: „Bildschnitt vom Geschäftsleben der Askanischen Strasse. Durch die
+Kavalierstrasse, am Kaufhaus Zeeck vorbei, zum Kaffee ‚Altes Theater‘.“ Es folgen nun mehrere
+Titel, die an den Aufbau eines Stadtführers erinnern, wie „St. Marien hält Wacht“, „Die alte Residenz“,
+„Oranienbaum“, „Dessau, das deutsche Kopenhagen“, „Das neue Dessau“, „Dessau, die Fliegerstadt“,
+„Das Bauhaus“, „Neue Bauten“, „Baumblüte an der Elbe“. Die Werbebotschaft beendet in Form 
+eines Roll-Titels beschwörend den Film: „Kommen Sie nach Dessau, besuchen Sie die alte Residenz
+– besuchen Sie das neue Dessau, die Metropole formalen Schaffens und des jungen industriellen Aufschwungs.“
+  
+1931, als Clemens den filmischen Werbeentwurf vorlegte, wurde der Öffentlichkeit ein neuer 
+Stadtführer zu Dessau präsentiert, eine von der Stadt herausgegebene Broschüre, die das Bauhaus
+in Zusammenarbeit mit dem Anhaltischen Landeskonservator, kommunalen Kunstberater und 
+Bauhaus-Förderer Ludwig Grote gestaltet hatte. Vielleicht erhoffte sich Clemens mit 
+seinem Werbefilm ein Anknüpfen an dieses gemeinschaftlich betriebene Stadtmarketing.
+Mit dem Antwortschreiben des Oberbürgermeisters am 27. März 1931 erhielt Clemens jedoch
+eine Absage von Hesse: „Zu meinem Bedauern lassen sich angesichts der überaus angespannten
+Finanzlage der Stadt und der sehr ungünstigen Aussichten für die Zukunft Mittel für die
+Durchführung des Unternehmens zur Zeit nicht beschaffen. Die Stadt kann augenblicklich 
+den Gedanken nicht weiterverfolgen. Den Entwurf erlaube ich mir wieder beizufügen.“ 
+Die Zeiten wurden härter, nicht nur für das Bauhaus und seine Angehörigen und nicht nur
+in Dessau. Clemens fand dennoch bald eine neue Beschäftigung, diesmal jedoch in der Schweiz,
+als Ausstattungsleiter am Stadttheater Zürich.
+  
+Der Titel ebenso wie die Schlussworte des 15-minütigen Werbefilms von Roman Clemens sollten
+lauten: „JEDER EINMAL IN DESSAU“. Ein Film, der nie gedreht wurde und der noch umgesetzt
+werden könnte … sollte? Doch was würde er heutzutage zeigen, worauf würde er fokussieren?
+Wie ließe sich der vergangene Entwurf in der Gegenwart der Stadt verorten? 
+Über inspirierende Funde dieser Art werden wir gern wieder berichten!
+  
+Laura Gieser,  
+Juni 2021
+
+{% include figure.html img="images/aus-dem-archiv_objekte-aus-der-sammlung-33.png" alt="Ausschnitt eines Beiratprotokolls von 1933" caption="Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933" %}
+### Bauhaus-Texte im Archiv, Teil 1
 Das Herzstück des Dessauer Pilotprojekts „Bauhaus im Text“ ist – neben zwei 
 exemplarischen Editionen – ein digitales Verzeichnis aller gedruckten und 
 ungedruckten Schriftquellen, die von 1919 bis 1933 am Bauhaus entstanden oder 
