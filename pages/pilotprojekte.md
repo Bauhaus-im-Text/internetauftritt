@@ -44,6 +44,6 @@ Entstehungs- und Schreibprozess von *The New City* anhand von Materialien aus Hi
 In einer Leseausgabe wird der Text zum ersten Mal in deutscher Übersetzung zugänglich gemacht. Die Edition entsteht in Kooperation 
 mit dem Art Institute of Chicago, wo in den Ryerson and Burnham Libraries der schriftliche Nachlass Ludwig Hilberseimers aufbewahrt wird.
 
-Eine Tagung vom 27. bis 29.10.2021 an der Stiftung Bauhaus Dessau wird unter dem Titel *Ludwig Hilberseimer: Infrastructures of 
-Modernity* internationale Forscherinnen und Forscher zusammenbringen. Ihre Beiträge werden im Anschluss in einem Tagungsband publiziert werden. 
-Am 28.10.2021 eröffnet zudem das Zwischenspiel *Hilberseimer: Infrastrukturen der Neuen Stadt* im Bauhaus Museum Dessau.
+Eine Tagung vom 27. bis 29.10.2021 an der Stiftung Bauhaus Dessau brachte unter dem Titel *Ludwig Hilberseimer: Infrastructures of 
+Modernity* internationale Forscherinnen und Forscher zusammen. Ihre Beiträge werden 2022 in einem Tagungsband publiziert. 
+Am 28.10.2021 wurde zudem das Zwischenspiel *Hilberseimer: Infrastrukturen der Neuen Stadt* im Bauhaus Museum Dessau eröffnet.
