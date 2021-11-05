@@ -82,7 +82,7 @@ Wie ließe sich der vergangene Entwurf in der Gegenwart der Stadt verorten?
 Über inspirierende Funde dieser Art werden wir gern wieder berichten!
   
 Laura Gieser,  
-Juni 2021
+Oktober 2021
 
 {% include figure.html img="images/aus-dem-archiv_objekte-aus-der-sammlung-33.png" alt="Ausschnitt eines Beiratprotokolls von 1933" caption="Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933" %}
 ### Bauhaus-Texte im Archiv, Teil 1
