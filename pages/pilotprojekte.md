@@ -25,10 +25,11 @@ Studierender, wird das bis heute viel und kontrovers diskutierte politische Lebe
 untersucht. Die Zeitschrift erschien in hektografierter Form von 1930 bis 1932 in 15 Nummern mit einem variierenden 
 Umfang zwischen 5 und 18 Seiten. Zusammen mit den involvierten studentischen Netzwerken und ihrem brieflichen Austausch 
 handelt es sich bei der Zeitschrift um ein wichtiges Forschungsdesiderat. Die Edition wird mit einem kommentierenden 
-Apparat als historisch-kritische Edition digital zur Verfügung stehen. Eine Leseausgabe wird zudem in gedruckter Form erscheinen. 
+Apparat als historisch-kritische Edition digital zur Verfügung stehen. Eine kritische Leseausgabe wird zudem in gedruckter Form erscheinen. 
 
-Eine Tagung zur Zeitschrift *bauhaus. sprachrohr der studierenden. organ der kostufra* ist für Februar 2022 geplant.
-Ihre Ergebnisse sollen anschließend in einem Tagungsband veröffentlicht werden.
+Eine Tagung an der Stiftung Bauhaus Dessau unter dem Titel *Zwischen ästhetischer und politischer Avantgarde am Ende
+der Weimarer Republik: Die Zeitschrift der kommunistischen Studentenfraktion (Kostufra) am Bauhaus Dessau und Berlin 1930-1932* 
+findet vom 10. bis 11.2.2022 statt. Ihre Ergebnisse sollen anschließend in einem Tagungsband veröffentlicht werden.
  
 ### Edition *The New City. Principles of Planning (1944) von Ludwig Hilberseimer*
 
@@ -41,7 +42,7 @@ dem Jahr 1944, Stadt und Landschaft zu einer neuen Einheit. Dazwischen lagen ent
 der Schritt ins amerikanische Exil und ein Sprachwechsel, dessen Bedeutung für den profilierten Autor von hunderten Artikeln 
 und fünf Büchern nicht zu unterschätzen ist. Die digitale historisch-kritische Edition wird daher genetisch angelegt sein und den komplexen 
 Entstehungs- und Schreibprozess von *The New City* anhand von Materialien aus Hilberseimers Nachlass sichtbar werden lassen. 
-In einer Leseausgabe wird der Text zum ersten Mal in deutscher Übersetzung zugänglich gemacht. Die Edition entsteht in Kooperation 
+In einer kritischen Leseausgabe wird der Text zum ersten Mal in deutscher Übersetzung zugänglich gemacht. Die Edition entsteht in Kooperation 
 mit dem Art Institute of Chicago, wo in den Ryerson and Burnham Libraries der schriftliche Nachlass Ludwig Hilberseimers aufbewahrt wird.
 
 Eine Tagung vom 27. bis 29.10.2021 an der Stiftung Bauhaus Dessau brachte unter dem Titel *Ludwig Hilberseimer: Infrastructures of 
