@@ -1,15 +1,88 @@
 ---
-title: Bauhaus-Texte im Archiv, Teil 2 - Jeder einmal in Dessau!
+title: Internationale Tagung zu Ludwig Hilberseimer an der Stiftung Bauhaus Dessau – Ein Bericht
 lang: de
 nav: Aus der Werkstatt
 nav_order: 3
 layout: page
-img: images/Werbefilm_Clemens.png
-alt: Ausschnitt eines Typoskripts Werbefilm
-caption: "Roman Clemens, Werbefilm für die Stadt Dessau, Typoskript, 1931, 
-Stiftung Bauhaus Dessau, Schenkung Bernd Freese 2021 (Ausschnitt)"
+img: images/keyvisual_hilberseimer.png
+alt: Ausschnitt Plan Mischbebauung Hilberseimer
+caption: "Ludwig Hilberseimer, Mischbebauung von 1930 © bpk / The Art Institute of Chicago / Art Resource, NY, Gift of George E. Danforth"
 ---
 
+Der Architekt, Stadtplaner, Lehrer und Autor Ludwig Hilberseimer (1885–1967) wird seit
+einigen Jahren wieder intensiver erforscht. Im Rahmen des Forschungsprojekts „Bauhaus im Text“
+veranstaltete nun die Stiftung Bauhaus Dessau vom 27. bis 29. Oktober 2021 die internationale
+Tagung „Ludwig Hilberseimer: Infrastructures of Modernity“, die erste wissenschaftliche Konferenz
+zu Hilberseimer seit den 1980er-Jahren. Zahlreiche Beiträge aus dem In- und Ausland waren infolge
+des call for papers bei den Organisatoren eingegangen und hatten das große Bedürfnis nach einem
+grenzübergreifenden Austausch zu Ludwig Hilberseimer offenbart. Barbara Steiner und Florian Strob
+eröffneten daher die Tagung auch mit dem Ziel, die „Aktualität“ Hilberseimers hervorzuheben
+und „Modernität neu zu denken durch die Linse Hilberseimers.“  
+
+Für die in fünf Panels zu den Themen „City Building Elements“, „Großstadt: German Perspectives“,
+„Urban Landscapes: US Perspectives“, „Life/Theory“ und „Media Methods“ organisierte Veranstaltung
+konnten viele der führenden Forscher*innen auf dem Gebiet gewonnen werden, namentlich 
+Christine Mengin, Professorin an der Université de Paris 1 Panthéon-Sorbonne, Philipp Oswalt,
+ehemaliger Direktor der Stiftung Bauhaus Dessau und Professor für Architekturtheorie und 
+Design an der Universität Kassel, Charles Waldheim, Architekt, Urbanist und Professor an der 
+Harvard University, und Alison Fisher, Curator of Architecture and Design am Art Institute
+of Chicago, wo sich der Nachlass von Ludwig Hilberseimer befindet. Als Vertreter der neueren
+Hilberseimer-Forschung können Plácido González Martínez, Professor für Architektur und 
+Stadtplanung an der Tongji Universität in Shanghai, Alexander Eisenschmidt, Designer und
+Professor an der University of Illinois, Chicago’s School of Architecture, und Scott Colman
+von der Rice University School of Architecture in Houston genannt werden. Neuere Zugänge zu
+den Projekten und Texten sowie zur Rezeption Hilberseimers boten darüber hinaus Robin Schuldenfrei
+vom Courtauld Institute of Art an der University of London, Anna Vallye vom Connecticut College,
+Christa Kamleithner von der BTU Cottbus-Senftenberg, Andreas Schätzke und Florian Strob von der 
+Stiftung Bauhaus Dessau, Andreas Buss von der Universität Kassel, und Benedict Clouette 
+von der Columbia University. Nikos Katsikis von der Delft University of Technology, Lutz Robbers
+von der Jade Hochschule Wilhelmshaven, Oldenburg, Elsfleth, und Sandra Neugärtner von der 
+Universität Erfurt betrachteten Hilberseimer aus interdisziplinärer Perspektive.  
+
+Neben spektakulären Archivfunden, etwa im Hilberseimer-Nachlass in Chicago, trat 
+dabei eine fundamental neue Forschungsperspektive zutage, die stark auf die historischen 
+Quellen im Werk Ludwig Hilberseimers fokussiert und dessen vielschichtige Genese rekonstruiert. 
+Im Mittelpunkt der Diskussionen standen die von Hilberseimer geprägten städtebaulichen Konzepte
+wie die „gemischte Bauweise“, das „settlement unit“ und die „ökologische Denkweise“. Die 
+regionalplanerischen Ideen von Hilberseimer wurden genau analysiert und deren Ursprünge
+in der Raumtheorie lokalisiert, die von führenden Geographen wie Walter Christaller in der
+Weimar Republik sowie nach 1933 im Rahmen der NS-Institutionen entwickelt wurden. Der Einfluss
+der künstlerisch-literarischen Avantgarde der Zwischenkriegszeit auf Hilberseimer stellte
+einen weiteren Schwerpunkt der Diskussion dar. Vor allem aber gab es detaillierte 
+Auseinandersetzungen mit den rhetorischen und medialen Aspekten von Hilberseimers 
+„Null-Architektur“ (Philipp Oswalt) und Theorie, mit einem besonderen Augenmerk auf die
+typologische Dimension seiner Argumentation ebenso wie auf die in den Publikationen 
+verwandten visuellen Darstellungsmittel.  
+
+Besonders interessant war zu sehen, dass Hilberseimer die im Kontext der Weimarer Republik
+formulierte Theorie der Großstadt in Rückgriff auf gebaute Beispiele aus den USA 
+entwickelte, während er nach seiner Emigration die dort entstandenen Studien zu Stadt-
+und Regionalplanung mit Hilfe von Konzepten und Methoden sowie von Schemata und Diagrammen
+formulierte, die er aus Deutschland und Europa mitgebracht hatte. Gelegentlich diente
+Hilberseimer als Anlass, um ausführlich über Phänomene zu sprechen, die er in seinen 
+Werken rezipiert hatte. Der Gegenwartsbezug der urbanistischen Theorien wurde hervorgehoben,
+es dominierte jedoch die retrospektive Sicht auf Hilberseimer. Noch eingehender zu 
+betrachten bleibt Ludwig Hilberseimer der Architekt.
+Die Beiträge der Tagung zu Ludwig Hilberseimer werden 2022 in einem Sammelband in der
+Reihe „Bauwelt Fundamente“ des Birkhäuser Verlags erscheinen.  
+
+Parallel zur Tagung wurde am Abend des 28. Oktobers im Bauhaus Museum das Zwischenspiel mit
+dem Titel „Ludwig Hilberseimer: Infrastrukturen der Stadt“ eröffnet, das bis zum 6. März 2022
+dort zu sehen ist. Florian Strob konzipierte die Ausstellung als eine Brücke von Hilberseimers
+Anstellung als Lehrer am Bauhaus in Dessau zu seiner Zeit als Lehrer am Chicagoer IIT. Originale
+Studienarbeiten aus der Sammlung der Stiftung Bauhaus Dessau können neben Reproduktionen von
+Entwürfen und Dokumenten aus dem reichhaltigen Hilberseimer-Archiv im Art Institute of Chicago
+betrachtet werden. Sie visualisieren die Entwicklung der Städtebautheorie Ludwig Hilberseimers
+in den 1930er- und 1940er-Jahren, die sich schließlich in *The New City* niederschlug. 
+Zu dieser ersten Publikation Hilberseimers im Exil wird im Kontext des Forschungsprojekts
+„Bauhaus im Text“ eine historisch-kritische Edition erarbeitet sowie erstmalig eine 
+Übersetzung ins Deutsche präsentiert.  
+
+Laura Gieser,  
+November 2021  
+
+{% include figure.html img="images/Werbefilm_Clemens.png" alt="Ausschnitt eines Typoskripts Werbefilm" caption="Roman Clemens, Werbefilm für die Stadt Dessau, Typoskript, 1931, Stiftung Bauhaus Dessau, Schenkung Bernd Freese 2021 (Ausschnitt)" %}
+### Bauhaus-Texte im Archiv, Teil 2 - Jeder einmal in Dessau!
 Dank des Entgegenkommens vieler Institutionen und Einzelpersonen wird das Projekt eines
 auf Vollständigkeit zielenden Verzeichnisses aller Bauhaus-Texte aus den Jahren 1919–1933 
 realisierbar. Freundliche Hinweise und professionelle Unterstützung bei der Lokalisierung 
@@ -82,7 +155,7 @@ Wie ließe sich der vergangene Entwurf in der Gegenwart der Stadt verorten?
 Über inspirierende Funde dieser Art werden wir gern wieder berichten!
   
 Laura Gieser,  
-Oktober 2021
+Oktober 2021  
 
 {% include figure.html img="images/aus-dem-archiv_objekte-aus-der-sammlung-33.png" alt="Ausschnitt eines Beiratprotokolls von 1933" caption="Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933" %}
 ### Bauhaus-Texte im Archiv, Teil 1
