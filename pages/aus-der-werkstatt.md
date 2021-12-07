@@ -45,17 +45,17 @@ Quellen im Werk Ludwig Hilberseimers fokussiert und dessen vielschichtige Genese
 Im Mittelpunkt der Diskussionen standen die von Hilberseimer geprägten städtebaulichen Konzepte
 wie die „gemischte Bauweise“, das „settlement unit“ und die „ökologische Denkweise“. Die 
 regionalplanerischen Ideen von Hilberseimer wurden genau analysiert und deren Ursprünge
-in der Raumtheorie lokalisiert, die von führenden Geographen wie Walter Christaller in der
-Weimar Republik sowie nach 1933 im Rahmen der NS-Institutionen entwickelt wurden. Der Einfluss
+in der Raumtheorie lokalisiert, die von führenden Geografen wie Walter Christaller in der
+Weimarer Republik sowie nach 1933 im Rahmen der NS-Institutionen entwickelt wurden. Der Einfluss
 der künstlerisch-literarischen Avantgarde der Zwischenkriegszeit auf Hilberseimer stellte
 einen weiteren Schwerpunkt der Diskussion dar. Vor allem aber gab es detaillierte 
 Auseinandersetzungen mit den rhetorischen und medialen Aspekten von Hilberseimers 
 „Null-Architektur“ (Philipp Oswalt) und Theorie, mit einem besonderen Augenmerk auf die
 typologische Dimension seiner Argumentation ebenso wie auf die in den Publikationen 
-verwandten visuellen Darstellungsmittel.  
+verwendeten visuellen Darstellungsmittel.  
 
 Besonders interessant war zu sehen, dass Hilberseimer die im Kontext der Weimarer Republik
-formulierte Theorie der Großstadt in Rückgriff auf gebaute Beispiele aus den USA 
+formulierte Theorie der Großstadt in Rückgriff auf realisierte Beispiele aus den USA 
 entwickelte, während er nach seiner Emigration die dort entstandenen Studien zu Stadt-
 und Regionalplanung mit Hilfe von Konzepten und Methoden sowie von Schemata und Diagrammen
 formulierte, die er aus Deutschland und Europa mitgebracht hatte. Gelegentlich diente
@@ -71,12 +71,12 @@ dem Titel „Ludwig Hilberseimer: Infrastrukturen der Stadt“ eröffnet, das bi
 dort zu sehen ist. Florian Strob konzipierte die Ausstellung als eine Brücke von Hilberseimers
 Anstellung als Lehrer am Bauhaus in Dessau zu seiner Zeit als Lehrer am Chicagoer IIT. Originale
 Studienarbeiten aus der Sammlung der Stiftung Bauhaus Dessau können neben Reproduktionen von
-Entwürfen und Dokumenten aus dem reichhaltigen Hilberseimer-Archiv im Art Institute of Chicago
+Entwürfen und Dokumenten aus dem reichhaltigen Hilberseimer-Archiv des Art Institute of Chicago
 betrachtet werden. Sie visualisieren die Entwicklung der Städtebautheorie Ludwig Hilberseimers
 in den 1930er- und 1940er-Jahren, die sich schließlich in *The New City* niederschlug. 
 Zu dieser ersten Publikation Hilberseimers im Exil wird im Kontext des Forschungsprojekts
-„Bauhaus im Text“ eine historisch-kritische Edition erarbeitet sowie erstmalig eine 
-Übersetzung ins Deutsche präsentiert.  
+„Bauhaus im Text“ eine digtale historisch-kritische Edition erarbeitet und erstmals eine deutschsprachige 
+Übersetzung in Form einer kritischen Leseausgabe herausgegeben.  
 
 Laura Gieser,  
 November 2021  
