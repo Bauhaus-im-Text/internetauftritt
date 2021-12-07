@@ -1,0 +1,14 @@
+{% comment %}
+
+    Figure include adds an image marked up using bootstrap, https://getbootstrap.com/docs/4.6/content/figures/
+
+    e.g. --> {% include figure.html img="/media/example.png" alt="alternative text" caption="The image caption" width="50%" %}
+
+    Options:
+    - "img" = the path and filename of the image located in this repo (e.g. "/media/example.png" ), or full url to image (required)
+    - "width" = manually set width using options such as "50%"
+
+{% endcomment %}
+<figure class="figure w-25">
+    <img src="{{ include.img | relative_url }}" {% if include.width %}style="width:{{ include.width }}!important;"{% endif %} class="figure-img img-fluid">
+</figure>
