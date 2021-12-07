@@ -38,6 +38,14 @@ figure {
     }
 }
 
+logos {
+    .img-fluid {
+        display: block;
+        width: 100%;
+        max-width: none;
+    }
+}
+
 nav {
     &.navbar {
         border-bottom: 1px solid $black;
