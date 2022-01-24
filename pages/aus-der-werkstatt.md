@@ -1,14 +1,43 @@
 ---
-title: Internationale Tagung zu Ludwig Hilberseimer an der Stiftung Bauhaus Dessau – Ein Bericht
+title: Digitale Sammlungen, ein Fundstück
 lang: de
 nav: Aus der Werkstatt
 nav_order: 3
 layout: page
-img: images/keyvisual_hilberseimer.png
-alt: Ausschnitt Plan Mischbebauung Hilberseimer
-caption: "Ludwig Hilberseimer, Mischbebauung von 1930 © bpk / The Art Institute of Chicago / Art Resource, NY, Gift of George E. Danforth"
+img: 
+alt: 
+caption: 
 ---
 
+Manchmal geben Seiten- und Umwege in den Recherchen aufschlussreiche Einblicke und liefern
+an ungeahnter Stelle eine zuvor unbekannte Information. In der digitalen Sammlung der 
+Berlinischen Galerie Museum für moderne Kunst findet sich das Faksimile eines Briefs von 
+Peter Foerster an Hannah Höch vom 17. Juli 1927, Berlin. Foerster schreibt darin auch von
+Ludwig Mies van der Rohe und Ludwig Hilberseimer. Aus diesem Brief wissen wir nun nicht nur,
+dass Hilberseimer in der Emserstraße (übrigens die Nummer 14) in Berlin-Wilmersdorf lebte und
+arbeitete, sondern auch in welcher Etage er wohnte: im vierten Stock. Ein schönes und sprechendes
+Detail, wenn man bedenkt, welche Bedeutung Besonnungsstudien und Raumdurchsonnung in Hilberseimers
+Lehre und Forschung am Bauhaus spielten.  
+In seinem Brief zeichnet Foerster in aller Knappheit zwei Porträts der beiden befreundeten Architekten Mies
+van der Rohe und Hilberseimer: 
+
+„Mies ist sehr beschäftigt mit der Werkbundausstellung in Stuttgart. Er hat ja die Oberleitung 
+(ist ja 2. Vorsitzender des Werk-Bundes) und viel Ärger. Am 23. Juli soll eröffnet werden und es
+ist alles noch sehr im Rückstand. Der ruhige Mies wird kribblig und das passt doch nicht zu seinem 
+Format. (Wissen Sie noch, wie Sie am Potsdamer Platz stehen blieben um sehen zu können wie Mies 
+‚im Raume steht‘. Hilberseimer, der konsequente Puritaner, hat in der Emserstr. einen 4. Stock
+als Atelier und Junggesellenheim sehr schön ausgebaut. Er musste aus seiner früheren Wohnung
+heraus. Seine Frau wohnt am Lietzensee.“  
+(Brief von Peter Foerster an Hannah Höch. Berlin, 17.07.1927.
+Sammlung der Berlinischen Galerie, Inventarnummer: BG-HHC K 886/79)
+  
+Die vollständige Transkription des Briefes finden Sie [hier.](https://sammlung-online.berlinischegalerie.de:443/eMP/eMuseumPlus?service=ExternalInterface&module=collection&objectId=208435&viewType=detailView)  
+  
+Florian Strob,  
+Januar 2022
+
+{% include figure.html img="images/keyvisual_hilberseimer.png" alt="Ausschnitt Plan Mischbebauung" caption="Ludwig Hilberseimer, Mischbebauung von 1930 © bpk / The Art Institute of Chicago / Art Resource, NY, Gift of George E. Danforth" %}
+### Internationale Tagung zu Ludwig Hilberseimer an der Stiftung Bauhaus Dessau – Ein Bericht
 Der Architekt, Stadtplaner, Lehrer und Autor Ludwig Hilberseimer (1885–1967) wird seit
 einigen Jahren wieder intensiver erforscht. Im Rahmen des Forschungsprojekts „Bauhaus im Text“
 veranstaltete nun die Stiftung Bauhaus Dessau vom 27. bis 29. Oktober 2021 die internationale
@@ -80,7 +109,7 @@ Zu dieser ersten Publikation Hilberseimers im Exil wird im Kontext des Forschung
 
 Laura Gieser,  
 November 2021  
-
+  
 {% include figure.html img="images/Werbefilm_Clemens.png" alt="Ausschnitt eines Typoskripts Werbefilm" caption="Roman Clemens, Werbefilm für die Stadt Dessau, Typoskript, 1931, Stiftung Bauhaus Dessau, Schenkung Bernd Freese 2021 (Ausschnitt)" %}
 ### Bauhaus-Texte im Archiv, Teil 2 - Jeder einmal in Dessau!
 Dank des Entgegenkommens vieler Institutionen und Einzelpersonen wird das Projekt eines
@@ -306,7 +335,7 @@ Mai 2021
 
 {% include figure.html img="images/the-new-city_covercut.png" alt="The New City" caption="The New City, Covercut" %}
 
-<h3>Die Verfertigung einer Theorie beim Schreiben</h3>
+### Die Verfertigung einer Theorie beim Schreiben
 Ludwig Hilberseimer entwickelte am Bauhaus Dessau ab 1929 die Grundlagen seiner späteren städtebaulichen Theorien. 
 1944 veröffentlichte er mit *The New City. Principles of Planning* in Chicago sein erstes Buch in englischer Sprache. 
 Erst 1938 war Hilberseimer in die USA emigriert, erlernte dort die englische Sprache und begann bald danach seine 
