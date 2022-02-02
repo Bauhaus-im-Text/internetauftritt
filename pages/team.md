@@ -22,6 +22,13 @@ Editionswissenschaftlerin
 Entwicklung und Koordination der Editionen und digitalen Publikationen  
 <lemke@bauhaus-dessau.de>
 
+
+**Annika Padoan**  
+Studentische Hilfskraft  
+Publikationen  
+<padoan@bauhaus-dessau.de>
+
+
 **Dr. Andreas Schätzke**  
 Architekturhistoriker  
 Annotiertes Verzeichnis Bauhaus im Text (1919-1933)  
