@@ -1,14 +1,161 @@
 ---
-title: Digitale Sammlungen, ein Fundstück
+title: Internationale Tagung zur Zeitschrift der Kommunistischen Studentenfraktion (Kostufra) am Bauhaus
 lang: de
 nav: Aus der Werkstatt
 nav_order: 3
 layout: page
-img: 
-alt: 
-caption: 
+img: images/keyvisual_kostufra_1.png
+alt: "Blätter aus der Kostufra"
+caption: bauhaus 11, Titelblatt und Blatt 8, Typoskript, 1932, Stiftung Bauhaus Dessau, I 8460/1-8 L
 ---
-
+Im Rahmen des Forschungsprojekts Bauhaus im Text veranstaltete die Stiftung Bauhaus Dessau 
+am 10. und 11. Februar 2022 die internationale Tagung „Zwischen ästhetischer und politischer Avantgarde
+am Ende der Weimarer Republik: Die Zeitschrift der Kommunistischen Studentenfraktion (Kostufra)
+am Bauhaus Dessau und Berlin 1930–1932.“ Mit dieser Konferenz erfuhr das Thema erstmals eine
+eingehende wissenschaftliche Erörterung. Die 13 Beiträge, die überwiegend aus einem Call for
+Papers hervorgegangen waren, ließen eine vorher nicht bekannte Breite inhaltlicher und 
+methodischer Zugänge zum Thema der Konferenz deutlich werden. Zu der im Bauhaus Museum 
+Dessau hybrid veranstalteten Tagung hatten sich mehr als 100 Interessenten für die Teilnahme
+per Zoom angemeldet.
+  
+Zu den Bemühungen der KPD, an Hochschulen Einfluss zu gewinnen, gehörte 1922 die Gründung der
+Kommunistischen Studentenfraktion (Kostufra). Am Bauhaus entstand 1927 eine Zelle, in der mehr
+als 20 Studierende aktiv waren. Unter dem Titel *bauhaus. sprachrohr der studierenden. organ
+der kostufra* veröffentlichten sie von 1930 bis 1932 eine eigene Zeitschrift. Darin nahmen 
+sie, weitgehend die Sichtweise der KPD wiedergebend, polemisch zu Ereignissen und Entwicklungen
+am Bauhaus sowie in Politik und Gesellschaft Stellung. Im Rahmen der Tagung diskutierten 
+Wissenschaftler und Wissenschaftlerinnen verschiedener Disziplinen über linke Kulturpolitik
+in der Weimarer Republik, die Auseinandersetzungen um ästhetische und politische Avantgarden
+der Zeit sowie die Rezeption dieser Debatten im Nachkriegsdeutschland. Im Rahmen des 
+Forschungsprojekts „Bauhaus im Text“ der Stiftung Bauhaus Dessau wird derzeit unter anderem
+eine kritische Edition der Zeitschrift der Kostufra erarbeitet, die im Herbst 2022 in 
+digitaler Form und in einer Buchausgabe erscheinen wird.
+  
+Die Direktorin der Stiftung Bauhaus Dessau, Barbara Steiner, erläuterte in ihrer Begrüßung
+den Zusammenhang der Tagung mit dem laufenden Projekt zum textlichen Erbe des Bauhauses. Sie
+benannte außerdem den Bezug zum Jahresthema „Hygiene“ der Stiftung für 2022. Die Ambivalenz
+der Forderung nach (sozialer) Hygiene, wie auch die Kostufra sie vertrat, bestand darin, 
+dass sie oftmals zugleich die Ausgrenzung bestimmter Personengruppen bedeutete. 
+Der emanzipatorische Ansatz dieser Auffassung von „Hygiene“ lief stets Gefahr, einen
+menschenverachtenden Charakter anzunehmen. Wolfgang Thöner, Sammlungsleiter der Stiftung,
+wies in seiner Einführung darauf hin, dass es bisher nur eine geringe wissenschaftliche 
+Auseinandersetzung mit dem Thema der Tagung gegeben habe. Überdies sei man auch in der DDR
+trotz ideologischer Nähe bisweilen zu Fehleinschätzungen der Kostufra gelangt.
+  
+Die erste Sektion, moderiert von Regina Bittner (Dessau), widmete sich dem Thema „Der
+politische und kulturelle Richtungskampf in der KPD, die Kostufra an deutschen Hochschulen
+und das Bauhaus“. Marcel Bois (Hamburg) sprach über die 1922 von der KPD gegründete 
+Kommunistische Studentenfraktion, die auch aufgrund einer insgesamt sehr lückenhaften 
+Quellenlage bisher nicht eingehend erforscht wurde. Er beschrieb den zentralistischen 
+Aufbau der Organisation, ihre publizistischen Bemühungen und ihr relatives Erstarken 
+in den frühen 1930er-Jahren. Er konnte zudem auf Grundlage neu erschlossener Quellen 
+die Kostufra am Bauhaus Dessau genauer in den reichsweiten Kontext einordnen. Der Vortrag
+von Patrick Rössler (Erfurt) ermöglichte ebenfalls, das Dessauer Geschehen vor einem 
+weiteren historischen Hintergrund zu verstehen. Er entfaltete aus Sicht potenzieller Rezipienten
+der Zeit ein Panorama der linksgerichteten Illustriertenpresse der Weimarer Republik, speziell 
+der frühen 1930er-Jahre. Aus medienhistorischer Perspektive bewertete er die von ihm als „Zirkular“
+eingeordnete Zeitschrift der Kostufra am Bauhaus in diesem Zusammenhang als ein bescheidenes 
+Element. Er konnte dennoch Beispiele für die zeitgenössische Wahrnehmung der Zeitschrift, so 
+1931 in der *Arbeiter-Illustrierte-Zeitung*, anführen. Soonim Shin (Wien) legte an einem Fallbeispiel,
+der Zeitschrift des Volksverbandes für Filmkunst, ergänzend dar, wie auf dem Gebiet der Volksbildung
+und -aufklärung ein Projekt, das Potenzial für ein Bündnis zwischen Kommunisten und bürgerlichen 
+Intellektuellen zu bieten schien, schließlich an der Haltung der KPD-Parteiführung scheiterte. 
+In der anschließenden Diskussion wurden die Bedeutung des Bildes in der Presse der Weimarer 
+Republik, die Bedingungen der Bildproduktion und auch die Frage, auf welche Weise die 
+Zeitschrift der Kostufra am Bauhaus vertrieben wurde, behandelt.
+  
+Die zweite Sektion, die sich mit der „Kritik der Lehre, der Architektur und der Kunst am 
+Bauhaus in der Zeitschrift der Kostufra“ befasste, wurde von Annemarie Jaeggi (Berlin) geleitet.
+Peter Bernhard (Erlangen-Nürnberg) untersuchte die Kritik der Kostufra an den Gastvorträgen, 
+die am Bauhaus gehalten wurden. In der Zeitschrift wurden zwar nur die Vorträge von Amédée 
+Ozenfant, Otto Neurath, Johannes Riedel und Helmuth Plessner aufgegriffen, dennoch war damit
+ein breites Spektrum an Professionen und Disziplinen abgedeckt. Die Kritik richtete sich vor
+allem gegen bürgerliche Auffassungen der Soziologie, der Psychologie und anderer Wissenschaften.
+Eine Trennung von wissenschaftlichen Erkenntnissen und politischem Handeln lehnten die 
+kommunistischen Studierenden des Bauhauses ab. Magdalena Droste (Berlin) analysierte die 
+Architekturdebatten innerhalb der Kostufra, wie sie anhand ihrer Zeitschrift nachvollzogen 
+werden können. Wohnen, Architektur und Städtebau wurden dort nur selten thematisiert. Die 
+Kostufra versuchte, wie sich besonders für das Jahr 1931 feststellen lässt, vor allem anhand
+von Beispielen aus der Sowjetunion Debatten um Themen der Architektur für die parteipolitische
+Agitation brauchbar zu machen. Im zweiten Teil ihres Vortrags ging die Referentin auf die Planung
+der Siedlung Fichtenbreite in Dessau ein, die 1931 am Bauhaus unter der Leitung des Dozenten Ludwig
+Hilberseimer von einem studentischen Kollektiv als Projekt bearbeitet wurde. Wolfgang Thöner (Dessau)
+diskutierte die Positionen der Kostufra zur Kunst, wie sie sich in der Zeitschrift widerspiegeln. 
+Er skizzierte zunächst die Debatten über die Rolle der Kunst, die in der offiziellen Zeitschrift des
+Bauhauses geführt wurden. Trotz mancher Konfrontation handelte es sich um dialogisch geführte 
+Auseinandersetzungen. Vor diesem Hintergrund erscheint der Ton in der Zeitschrift der Kostufra
+als scharf und unversöhnlich. Die dortige Kritik richtete sich gegen eine Auffassung, die Kunst
+nicht als Waffe im Klassenkampf verstand, und generell gegen Vertreter einer „bürgerlichen“ Kunst
+wie beispielsweise Amédée Ozenfant. In der Diskussion zum Abschluss der Sektion wurde das Jahr 1930
+als ein „Wendejahr“ in der vonseiten der Linken um Kunst und Architektur geführten politischen 
+Auseinandersetzung und ihrer Haltung gegenüber der SPD und bürgerlichen Demokraten thematisiert.
+Festgestellt wurde außerdem, dass sich eine Mitgliedschaft in der Kostufra und eine Autorschaft 
+hinsichtlich der Beiträge in ihrer Zeitschrift nur in wenigen Fällen zweifelsfrei feststellen lässt.
+  
+Der zweite Konferenztag begann mit der von Ines Weizman (London) moderierten Sektion, die einen
+genaueren Blick auf die Akteure der Kostufra, namentlich die linksgerichteten Studierenden am 
+Bauhaus, warf. Unter dem Titel „Die zur Kostufra und ihrem Umkreis gehörenden Studierenden“ wurden
+verschiedene einzel- und gruppenbiografische Ansätze vorgestellt. Sandra Neugärtner (Erfurt) nahm
+einen 1931 in der Kostufra-Zeitschrift erschienenen Aufruf an die Studierenden, „Arbeiterfotografen“
+zu werden, zum Ausgangspunkt ihrer Betrachtung von Bauhäuslern, die 1929 in Dessau eine entsprechende
+Gruppe gegründet hatten. Ziel der „Arbeiterfotografen“-Initiative war es, einer aus Sicht der KPD
+bestehenden Verunklärung der gesellschaftlichen Verhältnisse durch eine „bürgerliche“ Fotografie
+entgegenzutreten und fotografische Kenntnisse im Dienst des Klassenkampfs einzusetzen. Elizabeth
+Otto (Buffalo) ging den Spuren einiger Kostufra-Mitglieder nach, die in der Weimarer Republik und
+in den Jahren nach 1933 Widerstand gegen die Nationalsozialisten leisteten. Sie diskutierte, mit
+einem Fokus auf Willi Jungmittag, die Möglichkeiten und die Formen widerständigen Verhaltens sowohl
+in Deutschland als auch aus dem Exil heraus. Anke Blümm (Weimar) konzentrierte sich in ihrem Vortrag
+auf eine „vielschichtige Gruppe“ von knapp 30 Studierenden, die aus Polen stammten. Generell besaß 
+das Bauhaus eine besondere Anziehungskraft auf Studierende aus Ostmitteleuropa, darunter vor allem
+solche aus Ungarn, Polen, Jugoslawien und der Tschechoslowakei. Dass fast alle von ihnen mit polnischer
+Staatsangehörigkeit zugleich jüdisch waren und der Kommunismus für viele von ihnen attraktiv war, lässt
+die besondere Struktur dieser Gruppe erkennen, die nicht einfach zu kategorisieren ist. Ronny Schüler
+(Weimar) sprach über die Kostufra, ihr Umfeld und Palästina als Emigrationsziel. Einige der zu dieser
+Gruppe zählenden Studenten wie Arieh Sharon, Chanan Frenkel und Shmuel Mestetchkin waren bereits Jahre
+zuvor aus Osteuropa beziehungsweise aus Deutschland in das britische Mandatsgebiet Palästina emigriert
+und kamen für ein Studium an das Bauhaus in Dessau. Vor allem den Werdegang von Sharon und Mestetchkin
+charakterisierte der Referent als „Musterlebensläufe“ eines sozialistischen Zionismus (im Unterschied
+beispielsweise zu praktischem oder religiösem Zionismus).
+  
+Die vierte und abschließende Sektion, moderiert von Katja Leiskau (Frankfurt am Main), war der 
+Rezeption der Kostufra in der Bauhausforschung gewidmet. Regina Bittner (Dessau) richtete den Fokus auf
+die kommunistische Kunsttheoretikern Lu Märten, deren Hauptwerk *Wesen und Veränderung der Formen/Künste*
+auch am Bauhaus wahrgenommen wurde. Märtens Thema, eine historisch-materialistische Fundierung der 
+Kunsttheorie, führte zu einer Auseinandersetzung mit dem Publizisten Ernst Kállai, der zeitweilig 
+für die Redaktion der offiziellen Zeitschrift des Bauhauses verantwortlich war. Auch zur KPD-Position
+stand Märten, die sich für eine Produktionsästhetik und nicht für eine Arbeitererziehung aussprach, 
+im Gegensatz. In eine frühe Phase der Bauhaus-Rezeption in der DDR führte der Vortrag von Michael 
+Siebenbrodt (Weimar), der von einem unter seiner Beteiligung durchgeführten Projekt zur biografischen
+Bauhaus-Forschung an der Hochschule für Architektur und Bauwesen Weimar in den 1970er-Jahren berichtete.
+Im zweiten Teil seines Vortrags befasste er sich mit drei Beispielen aus der Anfangszeit des Bauhauses
+in Weimar: mit Johannes Ilmari Auerbach, dem ersten KPD-Mitglied am Bauhaus, mit Karl Peter Röhl und
+mit dem von Walter Gropius entworfenen Märzgefallenen-Denkmal, das 1922 in Weimar errichtet wurde. 
+Zum Abschluss gab Karoline Lemke (Dessau) einen Einblick in die Arbeit des Forschungsprojekts „Bauhaus im Text“
+und berichtete über die in Vorbereitung befindliche erste kritische Edition der Zeitschrift der Kostufra.
+Sie erläuterte die Form der Edition und die Art der Kommentierung sowie die Unterschiede, die zwischen
+der digitalen und der gedruckten Version bestehen werden. Die Referentin stellte unter anderem die Arbeit
+mit der Software Transkribus vor und beschrieb die Kooperationen, die für die Realisierung der Edition mit
+der [Forschungsstelle für Biografien ehemaliger Bauhaus-Angehöriger] (https://bauhaus.community) und dem
+[Editionenportal Thüringen] (www.editionenportal.de), das an der Thüringer Universitäts- und Landesbibliothek
+Jena betreut wird, eingegangen worden sind. In der anschließenden Diskussion wurde unter anderem die Frage
+aufgeworfen, welche Möglichkeiten der Erweiterung die digitale Fassung einer solchen Edition, etwa im
+Hinblick auf neue Forschungsergebnisse, besitzt.
+  
+Die Tagung zeigte anschaulich, welche Vielzahl von methodischen und inhaltlichen Zugängen das nur
+auf den ersten Blick etwas abgelegen erscheinende Thema bietet. Deutlich wurden die Verbindungen zu
+anderen Themenfeldern der Kunst-, Architektur- und Kulturgeschichte, der Medienwissenschaften, der
+politischen Geschichte, der Sozial- und Wirtschaftsgeschichte. Andererseits erwies sich, wie 
+Wolfgang Thöner in seinem Schlusswort feststellte, dass Forschungsdesiderate unter anderem auf
+dem Feld des Biografischen bestehen. Die Frage, wer im Einzelnen zu den Mitgliedern und 
+Sympathisanten der Kostufra am Bauhaus zählte und wie sich dies aus den jeweiligen Lebensläufen
+erklären lässt, ist bislang noch vielfach unbeantwortet. Ebenso bietet die zeitgenössische 
+Rezeption der Kostufra und ihrer Publikationstätigkeit noch vielfältige Ansätze für interdisziplinär
+angelegte Forschung.
+  
+Andreas Schätzke,  
+Februar 2022  
+  
+### Digitale Sammlungen, ein Fundstück
 Manchmal geben Seiten- und Umwege in den Recherchen aufschlussreiche Einblicke und liefern
 an ungeahnter Stelle eine zuvor unbekannte Information. In der digitalen Sammlung der 
 Berlinischen Galerie Museum für moderne Kunst findet sich das Faksimile eines Briefs von 
@@ -186,7 +333,7 @@ Wie ließe sich der vergangene Entwurf in der Gegenwart der Stadt verorten?
 Laura Gieser,  
 Oktober 2021  
 
-{% include figure.html img="images/aus-dem-archiv_objekte-aus-der-sammlung-33.png" alt="Ausschnitt eines Beiratprotokolls von 1933" caption="Stiftung Bauhaus Dessau: SBD, I 8385/1-2 D, Ausschnitt eines Beiratprotokolls von 1933" %}
+{% include figure.html img="images/aus-dem-archiv_objekte-aus-der-sammlung-33.png" alt="Ausschnitt eines Beiratprotokolls von 1933" caption="Ausschnitt eines Beiratsprotokolls von 1933, Stiftung Bauhaus Dessau, I 8385/1-2 D" %}
 ### Bauhaus-Texte im Archiv, Teil 1
 Das Herzstück des Dessauer Pilotprojekts „Bauhaus im Text“ ist – neben zwei 
 exemplarischen Editionen – ein digitales Verzeichnis aller gedruckten und 
