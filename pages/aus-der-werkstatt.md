@@ -136,7 +136,7 @@ Sie erläuterte die Form der Edition und die Art der Kommentierung sowie die Unt
 der digitalen und der gedruckten Version bestehen werden. Die Referentin stellte unter anderem die Arbeit
 mit der Software Transkribus vor und beschrieb die Kooperationen, die für die Realisierung der Edition mit
 der [Forschungsstelle für Biografien ehemaliger Bauhaus-Angehöriger](https://bauhaus.community) und dem
-[Editionenportal Thüringen](www.editionenportal.de), das an der Thüringer Universitäts- und Landesbibliothek
+[Editionenportal Thüringen](https://editionenportal.de), das an der Thüringer Universitäts- und Landesbibliothek
 Jena betreut wird, eingegangen worden sind. In der anschließenden Diskussion wurde unter anderem die Frage
 aufgeworfen, welche Möglichkeiten der Erweiterung die digitale Fassung einer solchen Edition, etwa im
 Hinblick auf neue Forschungsergebnisse, besitzt.
