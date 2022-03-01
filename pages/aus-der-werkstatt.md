@@ -11,7 +11,7 @@ caption: bauhaus 11, Titelblatt und Blatt 8, Typoskript, 1932, Stiftung Bauhaus 
 Im Rahmen des Forschungsprojekts Bauhaus im Text veranstaltete die Stiftung Bauhaus Dessau 
 am 10. und 11. Februar 2022 die internationale Tagung „Zwischen ästhetischer und politischer Avantgarde
 am Ende der Weimarer Republik: Die Zeitschrift der Kommunistischen Studentenfraktion (Kostufra)
-am Bauhaus Dessau und Berlin 1930–1932.“ Mit dieser Konferenz erfuhr das Thema erstmals eine
+am Bauhaus Dessau und Berlin 1930–1932“. Mit dieser Konferenz erfuhr das Thema erstmals eine
 eingehende wissenschaftliche Erörterung. Die 13 Beiträge, die überwiegend aus einem Call for
 Papers hervorgegangen waren, ließen eine vorher nicht bekannte Breite inhaltlicher und 
 methodischer Zugänge zum Thema der Konferenz deutlich werden. Zu der im Bauhaus Museum 
@@ -135,8 +135,8 @@ und berichtete über die in Vorbereitung befindliche erste kritische Edition der
 Sie erläuterte die Form der Edition und die Art der Kommentierung sowie die Unterschiede, die zwischen
 der digitalen und der gedruckten Version bestehen werden. Die Referentin stellte unter anderem die Arbeit
 mit der Software Transkribus vor und beschrieb die Kooperationen, die für die Realisierung der Edition mit
-der [Forschungsstelle für Biografien ehemaliger Bauhaus-Angehöriger] (https://bauhaus.community) und dem
-[Editionenportal Thüringen] (www.editionenportal.de), das an der Thüringer Universitäts- und Landesbibliothek
+der [Forschungsstelle für Biografien ehemaliger Bauhaus-Angehöriger](https://bauhaus.community) und dem
+[Editionenportal Thüringen](www.editionenportal.de), das an der Thüringer Universitäts- und Landesbibliothek
 Jena betreut wird, eingegangen worden sind. In der anschließenden Diskussion wurde unter anderem die Frage
 aufgeworfen, welche Möglichkeiten der Erweiterung die digitale Fassung einer solchen Edition, etwa im
 Hinblick auf neue Forschungsergebnisse, besitzt.
