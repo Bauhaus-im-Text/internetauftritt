@@ -17,6 +17,12 @@ Kunsthistorikerin
 Annotiertes Verzeichnis Bauhaus im Text (1919-1933)  
 <gieser@bauhaus-dessau.de>
 
+
+**Caroline Jansky**  
+Projektmanagerin  
+<jansky@bauhaus-dessau.de>
+
+
 **Karoline Lemke**  
 Editionswissenschaftlerin  
 Entwicklung und Koordination der Editionen und digitalen Publikationen  
@@ -34,15 +40,8 @@ Architekturhistoriker
 Annotiertes Verzeichnis Bauhaus im Text (1919-1933)  
 <schaetzke@bauhaus-dessau.de>
 
+
 **Wolfgang Thöner**  
 Leiter der Sammlung der Stiftung Bauhaus Dessau  
 *bauhaus. organ der kostufra. sprachrohr der studierenden* (1930-1932)  
 <thoener@bauhaus-dessau.de>
-
-**Clarissa Seidel** (in Elternzeit)  
-Projektmanagerin  
-<seidel@bauhaus-dessau.de>
-
-**Anne-Zora Westphal** (Elternzeitvertretung)  
-Projektmanagerin  
-<westphal@bauhaus-dessau.de>
