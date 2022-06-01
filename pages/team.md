@@ -20,7 +20,7 @@ Annotiertes Verzeichnis Bauhaus im Text (1919-1933)
 
 **Ulrich Thöner**  
 Projektmanager  
-<u.thoener@bauhaus-dessau.de>
+< u.thoener@bauhaus-dessau.de>
 
 
 **Karoline Lemke**  
