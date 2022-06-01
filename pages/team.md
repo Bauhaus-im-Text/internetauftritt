@@ -17,6 +17,9 @@ Kunsthistorikerin
 Annotiertes Verzeichnis Bauhaus im Text (1919-1933)  
 <gieser@bauhaus-dessau.de>
 
+**Ulrich Thöner**  
+Projektmanager
+
 
 **Karoline Lemke**  
 Editionswissenschaftlerin  
