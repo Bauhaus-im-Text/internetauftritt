@@ -18,9 +18,9 @@ Annotiertes Verzeichnis Bauhaus im Text (1919-1933)
 <gieser@bauhaus-dessau.de>
 
 
-**Caroline Jansky**  
-Projektmanagerin  
-<jansky@bauhaus-dessau.de>
+**Ulrich Thöner**  
+Projektmanager  
+<u.thoener@bauhaus-dessau.de>
 
 
 **Karoline Lemke**  
